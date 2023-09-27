@@ -1,0 +1,2551 @@
+,country,cont,year,Indicator Name,Value
+0,Afghanistan,Asia,1970,life_exp,41.228
+1,Afghanistan,Asia,2000,life_exp,60.364
+2,Albania,Europe,1970,life_exp,69.584
+3,Albania,Europe,1980,life_exp,72.88
+4,Albania,Europe,1990,life_exp,75.183
+5,Albania,Europe,2000,life_exp,77.781
+6,Algeria,Africa,1970,life_exp,51.755
+7,Algeria,Africa,1980,life_exp,67.085
+8,Algeria,Africa,1990,life_exp,70.032
+9,Algeria,Africa,2000,life_exp,73.62
+10,Angola,Africa,2000,life_exp,55.752
+11,Antigua and Barbuda,North America,1970,life_exp,73.035
+12,Antigua and Barbuda,North America,1980,life_exp,73.566
+13,Antigua and Barbuda,North America,1990,life_exp,74.347
+14,Antigua and Barbuda,North America,2000,life_exp,76.669
+15,Argentina,South America,1970,life_exp,68.491
+16,Argentina,South America,1980,life_exp,71.425
+17,Argentina,South America,1990,life_exp,73.722
+18,Argentina,South America,2000,life_exp,75.936
+19,Armenia,Europe,1990,life_exp,70.514
+20,Armenia,Europe,2000,life_exp,72.813
+21,Aruba,North America,1970,life_exp,70.778
+22,Aruba,North America,1980,life_exp,73.047
+23,Aruba,North America,1990,life_exp,73.561
+24,Aruba,North America,2000,life_exp,74.56
+25,Australia,Oceania,1970,life_exp,74.0039024390244
+26,Australia,Oceania,1980,life_exp,76.7136585365854
+27,Australia,Oceania,1990,life_exp,78.9317073170732
+28,Australia,Oceania,2000,life_exp,81.5439024390244
+29,Austria,Europe,1970,life_exp,72.3121951219512
+30,Austria,Europe,1980,life_exp,75.2658536585366
+31,Austria,Europe,1990,life_exp,77.8756097560976
+32,Austria,Europe,2000,life_exp,80.4317073170732
+33,Azerbaijan,Europe,1990,life_exp,64.189
+34,Azerbaijan,Europe,2000,life_exp,69.356
+35,Bahrain,Asia,1970,life_exp,70.456
+36,Bahrain,Asia,1980,life_exp,72.619
+37,Bahrain,Asia,1990,life_exp,74.98
+38,Bahrain,Asia,2000,life_exp,78.461
+39,Bangladesh,Asia,1970,life_exp,51.464
+40,Bangladesh,Asia,1980,life_exp,55.089
+41,Bangladesh,Asia,1990,life_exp,66.228
+42,Bangladesh,Asia,2000,life_exp,67.403
+43,Barbados,North America,1970,life_exp,71.526
+44,Barbados,North America,1980,life_exp,72.74
+45,Barbados,North America,1990,life_exp,74.039
+46,Barbados,North America,2000,life_exp,75.678
+47,Belarus,Europe,2000,life_exp,70.4560975609756
+48,Belarus,Europe,1990,life_exp,70.8365853658537
+49,Belgium,Europe,1970,life_exp,73.1936585365854
+50,Belgium,Europe,1980,life_exp,75.6326829268293
+51,Belgium,Europe,1990,life_exp,77.619512195122
+52,Belgium,Europe,2000,life_exp,80.0341463414634
+53,Belize,North America,1970,life_exp,67.399
+54,Belize,North America,1990,life_exp,70.744
+55,Belize,North America,1980,life_exp,70.781
+56,Benin,Africa,1980,life_exp,52.684
+57,Benin,Africa,1990,life_exp,56.526
+58,Benin,Africa,2000,life_exp,57.956
+59,Bermuda,North America,1970,life_exp,73.299
+60,Bermuda,North America,1980,life_exp,74.91
+61,Bermuda,North America,1990,life_exp,79.949
+62,Bermuda,North America,2000,life_exp,81.12
+63,Bhutan,Asia,1990,life_exp,62.23
+64,Bhutan,Asia,2000,life_exp,67.897
+65,Bosnia and Herzegovina,Europe,1990,life_exp,75.076
+66,Bosnia and Herzegovina,Europe,2000,life_exp,76.976
+67,Botswana,Africa,2000,life_exp,58.279
+68,Botswana,Africa,1970,life_exp,60.176
+69,Botswana,Africa,1980,life_exp,62.678
+70,Brazil,South America,1970,life_exp,61.253
+71,Brazil,South America,1980,life_exp,65.868
+72,Brazil,South America,1990,life_exp,69.524
+73,Brazil,South America,2000,life_exp,72.948
+74,Bulgaria,Europe,1970,life_exp,71.3948780487805
+75,Bulgaria,Europe,1990,life_exp,71.6414634146342
+76,Bulgaria,Europe,1980,life_exp,71.7307317073171
+77,Bulgaria,Europe,2000,life_exp,73.4121951219512
+78,Burkina Faso,Africa,1980,life_exp,49.174
+79,Burkina Faso,Africa,1990,life_exp,50.325
+80,Burkina Faso,Africa,2000,life_exp,55.959
+81,Burundi,Africa,1970,life_exp,44.59
+82,Burundi,Africa,1990,life_exp,47.528
+83,Burundi,Africa,2000,life_exp,56.388
+84,Cambodia,Asia,1990,life_exp,57.69
+85,Cambodia,Asia,2000,life_exp,67.444
+86,Cameroon,Africa,1990,life_exp,54.868
+87,Cameroon,Africa,1980,life_exp,54.947
+88,Cameroon,Africa,2000,life_exp,56.102
+89,Canada,North America,1970,life_exp,74.8663414634146
+90,Canada,North America,1980,life_exp,77.1248780487805
+91,Canada,North America,1990,life_exp,78.8390243902439
+92,Canada,North America,2000,life_exp,81.0660975609756
+93,Central African Republic,Africa,1970,life_exp,49.597
+94,Central African Republic,Africa,1990,life_exp,49.635
+95,Central African Republic,Africa,1980,life_exp,50.518
+96,Chad,Africa,1990,life_exp,47.372
+97,Chad,Africa,2000,life_exp,49.196
+98,Chile,South America,1970,life_exp,68.186
+99,Chile,South America,1980,life_exp,72.54
+100,Chile,South America,1990,life_exp,76.018
+101,Chile,South America,2000,life_exp,78.741
+102,Colombia,South America,1970,life_exp,66.38
+103,Colombia,South America,1980,life_exp,68.533
+104,Colombia,South America,1990,life_exp,70.926
+105,Colombia,South America,2000,life_exp,74.742
+106,Comoros,Africa,1980,life_exp,55.224
+107,Comoros,Africa,1990,life_exp,58.781
+108,Costa Rica,North America,1970,life_exp,72.423
+109,Costa Rica,North America,1980,life_exp,76.263
+110,Costa Rica,North America,1990,life_exp,77.138
+111,Costa Rica,North America,2000,life_exp,78.672
+112,Croatia,Europe,1990,life_exp,72.6419512195122
+113,Croatia,Europe,2000,life_exp,76.1682926829268
+114,Cuba,North America,1970,life_exp,72.447
+115,Cuba,North America,1980,life_exp,73.981
+116,Cuba,North America,1990,life_exp,75.893
+117,Cuba,North America,2000,life_exp,77.548
+118,Cyprus,Europe,1970,life_exp,71.895
+119,Cyprus,Europe,1980,life_exp,73.48
+120,Cyprus,Europe,1990,life_exp,76.295
+121,Cyprus,Europe,2000,life_exp,79.401
+122,Denmark,Europe,1970,life_exp,74.6324390243903
+123,Denmark,Europe,1980,life_exp,74.799756097561
+124,Denmark,Europe,1990,life_exp,76.3414634146341
+125,Denmark,Europe,2000,life_exp,78.5975609756098
+126,Djibouti,Africa,1990,life_exp,56.427
+127,Dominica,North America,1970,life_exp,70.97
+128,Dominica,North America,1990,life_exp,71.634
+129,Dominica,North America,2000,life_exp,73.305
+130,Dominica,North America,1980,life_exp,73.521
+131,Dominican Republic,North America,1970,life_exp,60.822
+132,Dominican Republic,North America,1990,life_exp,69.279
+133,Dominican Republic,North America,2000,life_exp,71.871
+134,Ecuador,South America,1970,life_exp,62.696
+135,Ecuador,South America,1980,life_exp,68.749
+136,Ecuador,South America,1990,life_exp,72.463
+137,Ecuador,South America,2000,life_exp,75.184
+138,El Salvador,North America,1970,life_exp,54.875
+139,El Salvador,North America,1980,life_exp,61.476
+140,El Salvador,North America,1990,life_exp,69.379
+141,El Salvador,North America,2000,life_exp,71.576
+142,Equatorial Guinea,Africa,1980,life_exp,50.668
+143,Equatorial Guinea,Africa,1990,life_exp,52.752
+144,Equatorial Guinea,Africa,2000,life_exp,57.431
+145,Eritrea,Africa,1990,life_exp,56.312
+146,Estonia,Europe,1990,life_exp,70.0634146341463
+147,Estonia,Europe,2000,life_exp,74.8243902439024
+148,Ethiopia,Africa,1990,life_exp,49.927
+149,Ethiopia,Africa,2000,life_exp,58.804
+150,Fiji,Oceania,1970,life_exp,62.941
+151,Fiji,Oceania,1980,life_exp,65.277
+152,Fiji,Oceania,1990,life_exp,66.763
+153,Fiji,Oceania,2000,life_exp,67.089
+154,Finland,Europe,1970,life_exp,73.1553658536586
+155,Finland,Europe,1980,life_exp,74.7921951219512
+156,Finland,Europe,1990,life_exp,77.2912195121951
+157,Finland,Europe,2000,life_exp,79.719512195122
+158,France,Europe,1970,life_exp,73.8512195121951
+159,France,Europe,1980,life_exp,76.3487804878049
+160,France,Europe,1990,life_exp,78.7560975609756
+161,France,Europe,2000,life_exp,81.4146341463415
+162,Gabon,Africa,1990,life_exp,60.849
+163,Georgia,Europe,1990,life_exp,69.319
+164,Georgia,Europe,2000,life_exp,71.95
+165,Germany,Europe,1970,life_exp,72.6301707317073
+166,Germany,Europe,1980,life_exp,75.1915365853659
+167,Germany,Europe,1990,life_exp,77.7268292682927
+168,Germany,Europe,2000,life_exp,79.8365853658537
+169,Ghana,Africa,1970,life_exp,50.932
+170,Ghana,Africa,1990,life_exp,58.03
+171,Ghana,Africa,2000,life_exp,60.946
+172,Greece,Europe,1970,life_exp,74.6210731707317
+173,Greece,Europe,1980,life_exp,76.980756097561
+174,Greece,Europe,1990,life_exp,78.1365853658537
+175,Greece,Europe,2000,life_exp,80.1878048780488
+176,Grenada,North America,1970,life_exp,68.151
+177,Grenada,North America,1980,life_exp,70.419
+178,Grenada,North America,1990,life_exp,72.903
+179,Guatemala,North America,1970,life_exp,56.185
+180,Guatemala,North America,1980,life_exp,62.374
+181,Guatemala,North America,1990,life_exp,66.869
+182,Guatemala,North America,2000,life_exp,70.641
+183,Guinea,Africa,1980,life_exp,46.847
+184,Guinea,Africa,1990,life_exp,52.356
+185,Guinea,Africa,2000,life_exp,56.348
+186,Guyana,South America,1970,life_exp,61.133
+187,Guyana,South America,1980,life_exp,62.238
+188,Guyana,South America,1990,life_exp,64.17
+189,Guyana,South America,2000,life_exp,66.563
+190,Haiti,North America,1970,life_exp,49.675
+191,Haiti,North America,1980,life_exp,52.755
+192,Haiti,North America,1990,life_exp,57.961
+193,Haiti,North America,2000,life_exp,61.741
+194,Honduras,North America,1970,life_exp,59.908
+195,Honduras,North America,1980,life_exp,64.856
+196,Honduras,North America,1990,life_exp,68.422
+197,Hungary,Europe,1970,life_exp,69.8480487804878
+198,Hungary,Europe,1980,life_exp,70.0234146341463
+199,Hungary,Europe,1990,life_exp,70.7024390243902
+200,Hungary,Europe,2000,life_exp,73.9048780487805
+201,Iceland,Europe,1970,life_exp,76.9721951219512
+202,Iceland,Europe,1980,life_exp,78.1409756097561
+203,Iceland,Europe,1990,life_exp,79.6024390243903
+204,Iceland,Europe,2000,life_exp,81.7512195121951
+205,India,Asia,1970,life_exp,53.06
+206,India,Asia,1980,life_exp,58.233
+207,India,Asia,1990,life_exp,62.207
+208,India,Asia,2000,life_exp,66.513
+209,Indonesia,Asia,1970,life_exp,58.153
+210,Indonesia,Asia,1980,life_exp,62.696
+211,Indonesia,Asia,1990,life_exp,66.221
+212,Indonesia,Asia,2000,life_exp,68.494
+213,Iraq,Asia,1970,life_exp,64.791
+214,Iraq,Asia,1990,life_exp,66.897
+215,Iraq,Asia,2000,life_exp,67.084
+216,Ireland,Europe,1970,life_exp,72.2680243902439
+217,Ireland,Europe,1980,life_exp,74.4552195121951
+218,Ireland,Europe,1990,life_exp,76.1804878048781
+219,Ireland,Europe,2000,life_exp,80.190243902439
+220,Israel,Asia,1970,life_exp,73.5073170731707
+221,Israel,Asia,1980,life_exp,76.3073170731707
+222,Israel,Asia,1990,life_exp,78.6585365853659
+223,Israel,Asia,2000,life_exp,81.4048780487805
+224,Italy,Europe,1970,life_exp,74.0026829268293
+225,Italy,Europe,1980,life_exp,76.819512195122
+226,Italy,Europe,1990,life_exp,79.4243902439024
+227,Italy,Europe,2000,life_exp,81.6365853658537
+228,Jamaica,North America,1970,life_exp,69.048
+229,Jamaica,North America,2000,life_exp,72.124
+230,Jamaica,North America,1980,life_exp,72.157
+231,Jamaica,North America,1990,life_exp,72.304
+232,Japan,Asia,1970,life_exp,76.1087804878049
+233,Japan,Asia,1980,life_exp,78.7685365853659
+234,Japan,Asia,1990,life_exp,80.5014634146342
+235,Japan,Asia,2000,life_exp,82.9314634146342
+236,Jordan,Asia,1970,life_exp,65.851
+237,Jordan,Asia,1980,life_exp,69.57
+238,Jordan,Asia,1990,life_exp,71.694
+239,Jordan,Asia,2000,life_exp,73.801
+240,Kazakhstan,Asia,1990,life_exp,68.3365853658537
+241,Kazakhstan,Asia,2000,life_exp,68.39
+242,Kenya,Africa,1990,life_exp,58.614
+243,Kenya,Africa,2000,life_exp,60.365
+244,Kenya,Africa,1980,life_exp,61.165
+245,Kiribati,Oceania,1970,life_exp,57.083
+246,Kiribati,Oceania,1980,life_exp,60.408
+247,Kiribati,Oceania,1990,life_exp,64.136
+248,Kiribati,Oceania,2000,life_exp,64.989
+249,Kuwait,Asia,1970,life_exp,69.677
+250,Kuwait,Asia,1980,life_exp,74.826
+251,Kuwait,Asia,1990,life_exp,76.416
+252,Kuwait,Asia,2000,life_exp,77.442
+253,Latvia,Europe,1990,life_exp,69.7429268292683
+254,Latvia,Europe,2000,life_exp,73.0804878048781
+255,Lebanon,Asia,1970,life_exp,67.294
+256,Lebanon,Asia,1990,life_exp,73.49
+257,Lesotho,Africa,2000,life_exp,48.427
+258,Lesotho,Africa,1970,life_exp,55.338
+259,Lesotho,Africa,1990,life_exp,59.398
+260,Lesotho,Africa,1980,life_exp,59.62
+261,Liberia,Africa,1980,life_exp,45.436
+262,Liberia,Africa,2000,life_exp,59.194
+263,Libya,Africa,1970,life_exp,64.26
+264,Libya,Africa,1980,life_exp,68.99
+265,Libya,Africa,1990,life_exp,71.284
+266,Libya,Africa,2000,life_exp,72.356
+267,Liechtenstein,Europe,1990,life_exp,79.109756097561
+268,Liechtenstein,Europe,2000,life_exp,82.6829268292683
+269,Lithuania,Europe,1990,life_exp,71.5707317073171
+270,Lithuania,Europe,2000,life_exp,72.9146341463415
+271,Luxembourg,Europe,1970,life_exp,72.3307804878049
+272,Luxembourg,Europe,1980,life_exp,74.7882195121951
+273,Luxembourg,Europe,1990,life_exp,77.7707317073171
+274,Luxembourg,Europe,2000,life_exp,80.6365853658537
+275,Madagascar,Africa,1970,life_exp,49.851
+276,Madagascar,Africa,1990,life_exp,57.372
+277,Madagascar,Africa,2000,life_exp,62.734
+278,Malawi,Africa,1990,life_exp,43.641
+279,Malawi,Africa,1970,life_exp,44.268
+280,Malawi,Africa,1980,life_exp,46.038
+281,Malawi,Africa,2000,life_exp,55.448
+282,Malaysia,Asia,1970,life_exp,67.762
+283,Malaysia,Asia,1980,life_exp,71.117
+284,Malaysia,Asia,1990,life_exp,72.384
+285,Malaysia,Asia,2000,life_exp,74.25
+286,Maldives,Asia,1970,life_exp,54.676
+287,Maldives,Asia,1980,life_exp,62.847
+288,Maldives,Asia,1990,life_exp,70.088
+289,Maldives,Asia,2000,life_exp,77.069
+290,Mali,Africa,1980,life_exp,45.877
+291,Mali,Africa,1990,life_exp,49.797
+292,Malta,Europe,1970,life_exp,71.8942682926829
+293,Malta,Europe,1980,life_exp,75.3041219512195
+294,Malta,Europe,1990,life_exp,77.7390243902439
+295,Malta,Europe,2000,life_exp,80.2414634146342
+296,Marshall Islands,Oceania,1970,life_exp,60.874
+297,Marshall Islands,Oceania,1980,life_exp,62.19
+298,Marshall Islands,Oceania,1990,life_exp,63.48
+299,Marshall Islands,Oceania,2000,life_exp,63.745
+300,Mauritania,Africa,1990,life_exp,60.819
+301,Mauritania,Africa,2000,life_exp,62.8
+302,Mauritius,Africa,1970,life_exp,65.3064390243902
+303,Mauritius,Africa,1980,life_exp,68.95
+304,Mauritius,Africa,1990,life_exp,70.9609756097561
+305,Mauritius,Africa,2000,life_exp,72.8824390243903
+306,Mexico,North America,1970,life_exp,64.189
+307,Mexico,North America,1980,life_exp,69.623
+308,Mexico,North America,1990,life_exp,73.225
+309,Mexico,North America,2000,life_exp,74.376
+310,Mongolia,Asia,1970,life_exp,55.65
+311,Mongolia,Asia,1980,life_exp,58.344
+312,Mongolia,Asia,1990,life_exp,62.529
+313,Mongolia,Asia,2000,life_exp,66.766
+314,Montenegro,Europe,2000,life_exp,75.1439024390244
+315,Montenegro,Europe,1990,life_exp,75.6826097560976
+316,Morocco,Africa,1970,life_exp,54.351
+317,Morocco,Africa,1980,life_exp,61.899
+318,Morocco,Africa,1990,life_exp,66.406
+319,Morocco,Africa,2000,life_exp,70.458
+320,Mozambique,Africa,1970,life_exp,42.795
+321,Mozambique,Africa,1980,life_exp,44.143
+322,Mozambique,Africa,1990,life_exp,48.812
+323,Mozambique,Africa,2000,life_exp,53.788
+324,Myanmar,Asia,1980,life_exp,56.565
+325,Myanmar,Asia,1990,life_exp,59.881
+326,Myanmar,Asia,2000,life_exp,63.155
+327,Namibia,Africa,2000,life_exp,55.496
+328,Namibia,Africa,1990,life_exp,62.496
+329,Nauru,Oceania,2000,life_exp,59.123
+330,Nauru,Oceania,1990,life_exp,61.463
+331,Nauru,Oceania,1970,life_exp,61.538
+332,Nepal,Asia,1970,life_exp,47.266
+333,Nepal,Asia,1980,life_exp,54.127
+334,Nepal,Asia,1990,life_exp,62.113
+335,Nepal,Asia,2000,life_exp,66.761
+336,Netherlands,Europe,1970,life_exp,75.6060975609756
+337,Netherlands,Europe,1980,life_exp,76.890243902439
+338,Netherlands,Europe,1990,life_exp,77.8829268292683
+339,Netherlands,Europe,2000,life_exp,80.5487804878049
+340,New Zealand,Oceania,1970,life_exp,73.0682926829269
+341,New Zealand,Oceania,1980,life_exp,74.8243902439024
+342,New Zealand,Oceania,1990,life_exp,78.0853658536585
+343,New Zealand,Oceania,2000,life_exp,80.7024390243902
+344,Nicaragua,North America,1970,life_exp,56.299
+345,Nicaragua,North America,1980,life_exp,62.475
+346,Nicaragua,North America,1990,life_exp,67.12
+347,Nicaragua,North America,2000,life_exp,71.433
+348,Niger,Africa,1980,life_exp,41.221
+349,Niger,Africa,1990,life_exp,48.738
+350,Niger,Africa,2000,life_exp,57.396
+351,Nigeria,Africa,1980,life_exp,46.638
+352,Nigeria,Africa,2000,life_exp,50.712
+353,Norway,Europe,1970,life_exp,75.4185365853659
+354,Norway,Europe,1980,life_exp,76.500487804878
+355,Norway,Europe,1990,life_exp,78.3292682926829
+356,Norway,Europe,2000,life_exp,80.7951219512195
+357,Oman,Asia,1980,life_exp,69.156
+358,Oman,Asia,1990,life_exp,73.184
+359,Oman,Asia,2000,life_exp,74.681
+360,Pakistan,Asia,1970,life_exp,57.146
+361,Pakistan,Asia,1980,life_exp,59.62
+362,Pakistan,Asia,1990,life_exp,61.679
+363,Pakistan,Asia,2000,life_exp,64.14
+364,Palau,Oceania,2000,life_exp,70.4936585365854
+365,Palau,Oceania,1990,life_exp,71.8446341463415
+366,Panama,North America,1970,life_exp,68.989
+367,Panama,North America,1980,life_exp,70.888
+368,Panama,North America,1990,life_exp,73.622
+369,Panama,North America,2000,life_exp,76.343
+370,Papua New Guinea,Oceania,1970,life_exp,57.003
+371,Papua New Guinea,Oceania,1990,life_exp,61.672
+372,Papua New Guinea,Oceania,2000,life_exp,62.788
+373,Paraguay,South America,1970,life_exp,64.448
+374,Paraguay,South America,1980,life_exp,67.469
+375,Paraguay,South America,1990,life_exp,69.634
+376,Paraguay,South America,2000,life_exp,71.635
+377,Peru,South America,1970,life_exp,59.303
+378,Peru,South America,1980,life_exp,64.352
+379,Peru,South America,1990,life_exp,69.743
+380,Peru,South America,2000,life_exp,73.466
+381,Philippines,Asia,1970,life_exp,62.349
+382,Philippines,Asia,1990,life_exp,69.298
+383,Philippines,Asia,2000,life_exp,70.633
+384,Poland,Europe,1970,life_exp,71.1170731707317
+385,Poland,Europe,1980,life_exp,71.3317073170732
+386,Poland,Europe,1990,life_exp,73.0439024390244
+387,Poland,Europe,2000,life_exp,75.6951219512195
+388,Portugal,Europe,1970,life_exp,71.1682926829268
+389,Portugal,Europe,1980,life_exp,74.2658536585366
+390,Portugal,Europe,1990,life_exp,75.9634146341463
+391,Portugal,Europe,2000,life_exp,78.7268292682927
+392,Puerto Rico,North America,1970,life_exp,73.04
+393,Puerto Rico,North America,1980,life_exp,73.853
+394,Puerto Rico,North America,1990,life_exp,75.536
+395,Puerto Rico,North America,2000,life_exp,77.877
+396,Qatar,Asia,1980,life_exp,73.594
+397,Qatar,Asia,1990,life_exp,74.809
+398,Qatar,Asia,2000,life_exp,77.878
+399,Romania,Europe,1980,life_exp,69.7263414634147
+400,Romania,Europe,1970,life_exp,69.7419512195122
+401,Romania,Europe,1990,life_exp,70.5121951219512
+402,Romania,Europe,2000,life_exp,73.309756097561
+403,Russian Federation,Europe,2000,life_exp,68.6846341463415
+404,Russian Federation,Europe,1990,life_exp,68.8860975609756
+405,Rwanda,Africa,1970,life_exp,47.153
+406,Rwanda,Africa,1990,life_exp,48.431
+407,Rwanda,Africa,2000,life_exp,61.958
+408,Samoa,Oceania,1970,life_exp,64.39
+409,Samoa,Oceania,1980,life_exp,67.471
+410,Samoa,Oceania,1990,life_exp,70.456
+411,Samoa,Oceania,2000,life_exp,72.155
+412,Sao Tome and Principe,Africa,1980,life_exp,61.334
+413,Sao Tome and Principe,Africa,1990,life_exp,61.471
+414,Sao Tome and Principe,Africa,2000,life_exp,65.116
+415,Saudi Arabia,Asia,1990,life_exp,72.136
+416,Saudi Arabia,Asia,2000,life_exp,75.431
+417,Senegal,Africa,1970,life_exp,48.196
+418,Senegal,Africa,1980,life_exp,56.438
+419,Senegal,Africa,1990,life_exp,57.139
+420,Senegal,Africa,2000,life_exp,63.923
+421,Serbia,Europe,1990,life_exp,71.6894878048781
+422,Serbia,Europe,2000,life_exp,73.9853658536585
+423,Seychelles,Africa,1980,life_exp,70.3829268292683
+424,Seychelles,Africa,1990,life_exp,72.6682926829268
+425,Seychelles,Africa,2000,life_exp,73.2536585365854
+426,Sierra Leone,Africa,1970,life_exp,42.873
+427,Sierra Leone,Africa,1980,life_exp,44.047
+428,Sierra Leone,Africa,1990,life_exp,44.057
+429,Sierra Leone,Africa,2000,life_exp,52.626
+430,Singapore,Asia,1970,life_exp,71.6392195121951
+431,Singapore,Asia,1980,life_exp,74.9463414634146
+432,Singapore,Asia,1990,life_exp,77.5512195121951
+433,Singapore,Asia,2000,life_exp,81.2414634146342
+434,Slovenia,Europe,1990,life_exp,75.009756097561
+435,Slovenia,Europe,2000,life_exp,78.9707317073171
+436,Solomon Islands,Oceania,1980,life_exp,65.186
+437,Solomon Islands,Oceania,1990,life_exp,67.069
+438,Somalia,Africa,1970,life_exp,47.305
+439,Somalia,Africa,1980,life_exp,48.903
+440,Somalia,Africa,2000,life_exp,51.853
+441,South Africa,Africa,2000,life_exp,58.47
+442,South Africa,Africa,1970,life_exp,59.395
+443,South Africa,Africa,1990,life_exp,63.375
+444,Spain,Europe,1970,life_exp,74.8187804878049
+445,Spain,Europe,1980,life_exp,76.8136585365854
+446,Spain,Europe,1990,life_exp,78.7170731707317
+447,Spain,Europe,2000,life_exp,81.4756097560976
+448,Sri Lanka,Asia,1970,life_exp,68.13
+449,Sri Lanka,Asia,1980,life_exp,71.549
+450,Sri Lanka,Asia,2000,life_exp,72.118
+451,Sri Lanka,Asia,1990,life_exp,73.052
+452,Suriname,South America,1970,life_exp,61.878
+453,Suriname,South America,1980,life_exp,64.01
+454,Suriname,South America,1990,life_exp,65.697
+455,Suriname,South America,2000,life_exp,69.505
+456,Sweden,Europe,1970,life_exp,75.5241463414634
+457,Sweden,Europe,1980,life_exp,77.7268292682927
+458,Sweden,Europe,1990,life_exp,79.4414634146342
+459,Sweden,Europe,2000,life_exp,81.3512195121951
+460,Switzerland,Europe,1970,life_exp,75.4660975609756
+461,Switzerland,Europe,1980,life_exp,77.4212195121951
+462,Switzerland,Europe,1990,life_exp,79.580487804878
+463,Switzerland,Europe,2000,life_exp,82.0439024390244
+464,Tajikistan,Asia,1990,life_exp,62.621
+465,Tajikistan,Asia,2000,life_exp,68.039
+466,Thailand,Asia,1970,life_exp,63.209
+467,Thailand,Asia,1980,life_exp,70.122
+468,Thailand,Asia,1990,life_exp,72.862
+469,Thailand,Asia,2000,life_exp,75.842
+470,Timor-Leste,Asia,2000,life_exp,64.854
+471,Togo,Africa,1970,life_exp,50.765
+472,Togo,Africa,1980,life_exp,54.39
+473,Togo,Africa,1990,life_exp,54.538
+474,Tonga,Oceania,1970,life_exp,65.782
+475,Tonga,Oceania,1980,life_exp,67.162
+476,Tonga,Oceania,1990,life_exp,68.809
+477,Tonga,Oceania,2000,life_exp,70.164
+478,Trinidad and Tobago,North America,1970,life_exp,67.768
+479,Trinidad and Tobago,North America,1980,life_exp,68.438
+480,Trinidad and Tobago,North America,1990,life_exp,69.17
+481,Trinidad and Tobago,North America,2000,life_exp,73.126
+482,Tunisia,Africa,1970,life_exp,63.211
+483,Tunisia,Africa,1980,life_exp,69.671
+484,Tunisia,Africa,1990,life_exp,73.508
+485,Tunisia,Africa,2000,life_exp,75.267
+486,Turkmenistan,Asia,1990,life_exp,64.518
+487,Turkmenistan,Asia,2000,life_exp,67.958
+488,Tuvalu,Oceania,1970,life_exp,60.506
+489,Tuvalu,Oceania,1990,life_exp,63.427
+490,Uganda,Africa,1980,life_exp,46.701
+491,Uganda,Africa,1990,life_exp,47.786
+492,Uganda,Africa,2000,life_exp,56.488
+493,Ukraine,Europe,2000,life_exp,69.19
+494,United Arab Emirates,Asia,1980,life_exp,71.757
+495,United Arab Emirates,Asia,1990,life_exp,73.67
+496,United Arab Emirates,Asia,2000,life_exp,78.003
+497,Uruguay,South America,1970,life_exp,70.279
+498,Uruguay,South America,1980,life_exp,73.002
+499,Uruguay,South America,1990,life_exp,74.769
+500,Uruguay,South America,2000,life_exp,76.738
+501,Uzbekistan,Asia,1990,life_exp,65.383
+502,Uzbekistan,Asia,2000,life_exp,68.871
+503,Vanuatu,Oceania,1970,life_exp,60.446
+504,Vanuatu,Oceania,1980,life_exp,66.134
+505,Zambia,Africa,1990,life_exp,47.926
+506,Zambia,Africa,2000,life_exp,55.3
+507,Zimbabwe,Africa,2000,life_exp,48.063
+508,Zimbabwe,Africa,1990,life_exp,59.426
+509,Zimbabwe,Africa,1980,life_exp,62.023
+510,Afghanistan,Asia,1970,GDP_Per_Capita,225.811558117818
+511,Afghanistan,Asia,2000,GDP_Per_Capita,423.407101823935
+512,Albania,Europe,1970,GDP_Per_Capita,821.218507999472
+513,Albania,Europe,1980,GDP_Per_Capita,895.924262148216
+514,Albania,Europe,1990,GDP_Per_Capita,1004.17988730455
+515,Albania,Europe,2000,GDP_Per_Capita,4109.89315287614
+516,Algeria,Africa,1970,GDP_Per_Capita,1827.57019502987
+517,Algeria,Africa,1980,GDP_Per_Capita,2223.60679692309
+518,Algeria,Africa,1990,GDP_Per_Capita,1599.25192839523
+519,Algeria,Africa,2000,GDP_Per_Capita,3898.47892309037
+520,Angola,Africa,2000,GDP_Per_Capita,3123.69875363117
+521,Antigua and Barbuda,North America,1970,GDP_Per_Capita,1744.06735559717
+522,Antigua and Barbuda,North America,1980,GDP_Per_Capita,3763.04974218469
+523,Antigua and Barbuda,North America,1990,GDP_Per_Capita,10379.1604015118
+524,Antigua and Barbuda,North America,2000,GDP_Per_Capita,14530.5986896353
+525,Argentina,South America,1970,GDP_Per_Capita,2679.6671289786
+526,Argentina,South America,1980,GDP_Per_Capita,2581.76530451724
+527,Argentina,South America,1990,GDP_Per_Capita,8387.03249452985
+528,Argentina,South America,2000,GDP_Per_Capita,8267.53994660745
+529,Armenia,Europe,1990,GDP_Per_Capita,622.688397271085
+530,Armenia,Europe,2000,GDP_Per_Capita,3111.1456974399
+531,Aruba,North America,1970,GDP_Per_Capita,5086.33420229471
+532,Aruba,North America,1980,GDP_Per_Capita,10372.9630804865
+533,Aruba,North America,1990,GDP_Per_Capita,20782.619496716
+534,Aruba,North America,2000,GDP_Per_Capita,25740.7702303087
+535,Australia,Oceania,1970,GDP_Per_Capita,10362.1390419826
+536,Australia,Oceania,1980,GDP_Per_Capita,19053.2333744409
+537,Australia,Oceania,1990,GDP_Per_Capita,22723.0591553695
+538,Australia,Oceania,2000,GDP_Per_Capita,46952.0905196545
+539,Austria,Europe,1970,GDP_Per_Capita,9796.75067678717
+540,Austria,Europe,1980,GDP_Per_Capita,17469.1671548551
+541,Austria,Europe,1990,GDP_Per_Capita,27176.727625305
+542,Austria,Europe,2000,GDP_Per_Capita,51712.9494845637
+543,Azerbaijan,Europe,1990,GDP_Per_Capita,565.481859165913
+544,Azerbaijan,Europe,2000,GDP_Per_Capita,4856.82188096247
+545,Bahrain,Asia,1970,GDP_Per_Capita,8421.89365471037
+546,Bahrain,Asia,1980,GDP_Per_Capita,8950.31634408545
+547,Bahrain,Asia,1990,GDP_Per_Capita,10955.1881338375
+548,Bahrain,Asia,2000,GDP_Per_Capita,19448.1851652978
+549,Bangladesh,Asia,1970,GDP_Per_Capita,180.18018038969
+550,Bangladesh,Asia,1980,GDP_Per_Capita,256.970233054904
+551,Bangladesh,Asia,1990,GDP_Per_Capita,353.107787422518
+552,Bangladesh,Asia,2000,GDP_Per_Capita,734.878975850348
+553,Barbados,North America,1970,GDP_Per_Capita,3191.35843762632
+554,Barbados,North America,1980,GDP_Per_Capita,7910.35793537616
+555,Barbados,North America,1990,GDP_Per_Capita,11578.9071544839
+556,Barbados,North America,2000,GDP_Per_Capita,16310.4703953015
+557,Belarus,Europe,2000,GDP_Per_Capita,6416.86703886436
+558,Belarus,Europe,1990,GDP_Per_Capita,1867.96625990613
+559,Belgium,Europe,1970,GDP_Per_Capita,11851.9779454138
+560,Belgium,Europe,1980,GDP_Per_Capita,16525.9441630725
+561,Belgium,Europe,1990,GDP_Per_Capita,25248.9707855979
+562,Belgium,Europe,2000,GDP_Per_Capita,44560.788065762
+563,Belize,North America,1970,GDP_Per_Capita,1102.48412810334
+564,Belize,North America,1990,GDP_Per_Capita,3009.16170196452
+565,Belize,North America,1980,GDP_Per_Capita,2206.59470474839
+566,Benin,Africa,1980,GDP_Per_Capita,325.865073778658
+567,Benin,Africa,1990,GDP_Per_Capita,541.50366584338
+568,Benin,Africa,2000,GDP_Per_Capita,1057.4622587939
+569,Bermuda,North America,1970,GDP_Per_Capita,14058.7747633853
+570,Bermuda,North America,1980,GDP_Per_Capita,32685.440377159
+571,Bermuda,North America,1990,GDP_Per_Capita,51655.1985875287
+572,Bermuda,North America,2000,GDP_Per_Capita,71480.7549569652
+573,Bhutan,Asia,1990,GDP_Per_Capita,703.706181191921
+574,Bhutan,Asia,2000,GDP_Per_Capita,1768.74651818836
+575,Bosnia and Herzegovina,Europe,1990,GDP_Per_Capita,1131.32776396388
+576,Bosnia and Herzegovina,Europe,2000,GDP_Per_Capita,4542.31091269208
+577,Botswana,Africa,2000,GDP_Per_Capita,4938.25201007683
+578,Botswana,Africa,1970,GDP_Per_Capita,665.44278380495
+579,Botswana,Africa,1980,GDP_Per_Capita,949.117859529572
+580,Brazil,South America,1970,GDP_Per_Capita,1565.34497895037
+581,Brazil,South America,1980,GDP_Per_Capita,2549.01119419176
+582,Brazil,South America,1990,GDP_Per_Capita,3440.5229050543
+583,Brazil,South America,2000,GDP_Per_Capita,8569.90089143029
+584,Bulgaria,Europe,1970,GDP_Per_Capita,1418.14511336961
+585,Bulgaria,Europe,1990,GDP_Per_Capita,2363.88596942809
+586,Bulgaria,Europe,1980,GDP_Per_Capita,1970.59991150503
+587,Bulgaria,Europe,2000,GDP_Per_Capita,6814.09877865966
+588,Burkina Faso,Africa,1980,GDP_Per_Capita,334.11916996529
+589,Burkina Faso,Africa,1990,GDP_Per_Capita,293.779673197638
+590,Burkina Faso,Africa,2000,GDP_Per_Capita,601.456763013935
+591,Burundi,Africa,1970,GDP_Per_Capita,191.624535780108
+592,Burundi,Africa,1990,GDP_Per_Capita,130.764789861153
+593,Burundi,Africa,2000,GDP_Per_Capita,203.860702555646
+594,Cambodia,Asia,1990,GDP_Per_Capita,295.216087354411
+595,Cambodia,Asia,2000,GDP_Per_Capita,734.81457679204
+596,Cameroon,Africa,1990,GDP_Per_Capita,1213.6375367014
+597,Cameroon,Africa,1980,GDP_Per_Capita,1081.18090050945
+598,Cameroon,Africa,2000,GDP_Per_Capita,1440.06418446298
+599,Canada,North America,1970,GDP_Per_Capita,10136.2004212476
+600,Canada,North America,1980,GDP_Per_Capita,20819.5394486805
+601,Canada,North America,1990,GDP_Per_Capita,22316.0993933454
+602,Canada,North America,2000,GDP_Per_Capita,40918.8506604706
+603,Central African Republic,Africa,1970,GDP_Per_Capita,427.819918221489
+604,Central African Republic,Africa,1990,GDP_Per_Capita,536.590489536436
+605,Central African Republic,Africa,1980,GDP_Per_Capita,354.428797751576
+606,Chad,Africa,1990,GDP_Per_Capita,217.855613738598
+607,Chad,Africa,2000,GDP_Per_Capita,891.107108010156
+608,Chile,South America,1970,GDP_Per_Capita,2043.00848242906
+609,Chile,South America,1980,GDP_Per_Capita,1874.57596684439
+610,Chile,South America,1990,GDP_Per_Capita,5012.33914948986
+611,Chile,South America,2000,GDP_Per_Capita,10240.8912464749
+612,Colombia,South America,1970,GDP_Per_Capita,1534.11250454722
+613,Colombia,South America,1980,GDP_Per_Capita,1739.40394710966
+614,Colombia,South America,1990,GDP_Per_Capita,2649.55637550275
+615,Colombia,South America,2000,GDP_Per_Capita,5244.35326618386
+616,Comoros,Africa,1980,GDP_Per_Capita,992.3987717222
+617,Comoros,Africa,1990,GDP_Per_Capita,881.006045254275
+618,Costa Rica,North America,1970,GDP_Per_Capita,2192.8405357406
+619,Costa Rica,North America,1980,GDP_Per_Capita,2166.56816750248
+620,Costa Rica,North America,1990,GDP_Per_Capita,3653.69416393967
+621,Costa Rica,North America,2000,GDP_Per_Capita,6737.86075358885
+622,Croatia,Europe,1990,GDP_Per_Capita,5130.78387565194
+623,Croatia,Europe,2000,GDP_Per_Capita,14450.5966501273
+624,Cuba,North America,1970,GDP_Per_Capita,2003.55881299132
+625,Cuba,North America,1980,GDP_Per_Capita,2567.15077740449
+626,Cuba,North America,1990,GDP_Per_Capita,2562.29983232301
+627,Cuba,North America,2000,GDP_Per_Capita,5501.99256681513
+628,Cyprus,Europe,1970,GDP_Per_Capita,3960.61732480635
+629,Cyprus,Europe,1980,GDP_Per_Capita,9015.38048315057
+630,Cyprus,Europe,1990,GDP_Per_Capita,15282.9843630321
+631,Cyprus,Europe,2000,GDP_Per_Capita,32107.3204482557
+632,Denmark,Europe,1970,GDP_Per_Capita,9771.99729280011
+633,Denmark,Europe,1980,GDP_Per_Capita,21895.4303252995
+634,Denmark,Europe,1990,GDP_Per_Capita,33452.8293346403
+635,Denmark,Europe,2000,GDP_Per_Capita,58128.3074828727
+636,Djibouti,Africa,1990,GDP_Per_Capita,729.905418297748
+637,Dominica,North America,1970,GDP_Per_Capita,756.081224144109
+638,Dominica,North America,1990,GDP_Per_Capita,4385.99454102993
+639,Dominica,North America,2000,GDP_Per_Capita,6661.46504737997
+640,Dominica,North America,1980,GDP_Per_Capita,1365.26957155442
+641,Dominican Republic,North America,1970,GDP_Per_Capita,1078.19014826014
+642,Dominican Republic,North America,1990,GDP_Per_Capita,2599.13569883882
+643,Dominican Republic,North America,2000,GDP_Per_Capita,4982.45897288324
+644,Ecuador,South America,1970,GDP_Per_Capita,1788.37347854021
+645,Ecuador,South America,1980,GDP_Per_Capita,1359.83530171099
+646,Ecuador,South America,1990,GDP_Per_Capita,1581.96722764321
+647,Ecuador,South America,2000,GDP_Per_Capita,4240.70259271564
+648,El Salvador,North America,1970,GDP_Per_Capita,397.284989198506
+649,El Salvador,North America,1980,GDP_Per_Capita,957.163386868429
+650,El Salvador,North America,1990,GDP_Per_Capita,1904.87489457873
+651,El Salvador,North America,2000,GDP_Per_Capita,2889.68523217474
+652,Equatorial Guinea,Africa,1980,GDP_Per_Capita,307.805731680396
+653,Equatorial Guinea,Africa,1990,GDP_Per_Capita,1400.08148204354
+654,Equatorial Guinea,Africa,2000,GDP_Per_Capita,14398.772796858
+655,Eritrea,Africa,1990,GDP_Per_Capita,341.280821275031
+656,Estonia,Europe,1990,GDP_Per_Capita,4106.77890039548
+657,Estonia,Europe,2000,GDP_Per_Capita,14717.8507243283
+658,Ethiopia,Africa,1990,GDP_Per_Capita,122.379648362907
+659,Ethiopia,Africa,2000,GDP_Per_Capita,324.984264030032
+660,Fiji,Oceania,1970,GDP_Per_Capita,1621.64961358058
+661,Fiji,Oceania,1980,GDP_Per_Capita,1530.5655947211
+662,Fiji,Oceania,1990,GDP_Per_Capita,2351.72736182033
+663,Fiji,Oceania,2000,GDP_Per_Capita,3184.67556987453
+664,Finland,Europe,1970,GDP_Per_Capita,9308.35319555015
+665,Finland,Europe,1980,GDP_Per_Capita,23971.7177849422
+666,Finland,Europe,1990,GDP_Per_Capita,26176.5011397258
+667,Finland,Europe,2000,GDP_Per_Capita,47291.6401256462
+668,France,Europe,1970,GDP_Per_Capita,11213.3410444152
+669,France,Europe,1980,GDP_Per_Capita,17746.7362849023
+670,France,Europe,1990,GDP_Per_Capita,24754.1132026642
+671,France,Europe,2000,GDP_Per_Capita,41899.1874909368
+672,Gabon,Africa,1990,GDP_Per_Capita,4160.67532351556
+673,Georgia,Europe,1990,GDP_Per_Capita,670.284743401535
+674,Georgia,Europe,2000,GDP_Per_Capita,2937.9894953786
+675,Germany,Europe,1970,GDP_Per_Capita,11311.0552601663
+676,Germany,Europe,1980,GDP_Per_Capita,17728.1208007552
+677,Germany,Europe,1990,GDP_Per_Capita,26903.1635964241
+678,Germany,Europe,2000,GDP_Per_Capita,41810.9853959123
+679,Ghana,Africa,1970,GDP_Per_Capita,548.919686701011
+680,Ghana,Africa,1990,GDP_Per_Capita,853.736041551079
+681,Ghana,Africa,2000,GDP_Per_Capita,1378.1384996456
+682,Greece,Europe,1970,GDP_Per_Capita,5925.87027528106
+683,Greece,Europe,1980,GDP_Per_Capita,7535.22389986922
+684,Greece,Europe,1990,GDP_Per_Capita,13162.8695482838
+685,Greece,Europe,2000,GDP_Per_Capita,29847.6317918291
+686,Grenada,North America,1970,GDP_Per_Capita,524.12067978496
+687,Grenada,North America,1980,GDP_Per_Capita,2160.95754536686
+688,Grenada,North America,1990,GDP_Per_Capita,3556.4789487352
+689,Guatemala,North America,1970,GDP_Per_Capita,888.694590407232
+690,Guatemala,North America,1980,GDP_Per_Capita,834.737964753724
+691,Guatemala,North America,1990,GDP_Per_Capita,1401.89277232373
+692,Guatemala,North America,2000,GDP_Per_Capita,2604.2438916029
+693,Guinea,Africa,1980,GDP_Per_Capita,580.497668054472
+694,Guinea,Africa,1990,GDP_Per_Capita,581.220383594434
+695,Guinea,Africa,2000,GDP_Per_Capita,670.261253521271
+696,Guyana,South America,1970,GDP_Per_Capita,1070.70784507112
+697,Guyana,South America,1980,GDP_Per_Capita,805.626878086742
+698,Guyana,South America,1990,GDP_Per_Capita,1461.64108419882
+699,Guyana,South America,2000,GDP_Per_Capita,4213.814514606
+700,Haiti,North America,1970,GDP_Per_Capita,258.846618780143
+701,Haiti,North America,1980,GDP_Per_Capita,439.048159529233
+702,Haiti,North America,1990,GDP_Per_Capita,828.740003708947
+703,Haiti,North America,2000,GDP_Per_Capita,1165.76760339272
+704,Honduras,North America,1970,GDP_Per_Capita,733.333985168464
+705,Honduras,North America,1980,GDP_Per_Capita,1254.49063338731
+706,Honduras,North America,1990,GDP_Per_Capita,999.028905143754
+707,Hungary,Europe,1970,GDP_Per_Capita,1537.00675656707
+708,Hungary,Europe,1980,GDP_Per_Capita,3080.90068610767
+709,Hungary,Europe,1990,GDP_Per_Capita,4598.08961592319
+710,Hungary,Europe,2000,GDP_Per_Capita,13095.692926302
+711,Iceland,Europe,1970,GDP_Per_Capita,7580.10713702793
+712,Iceland,Europe,1980,GDP_Per_Capita,22417.5047035396
+713,Iceland,Europe,1990,GDP_Per_Capita,31003.1139287028
+714,Iceland,Europe,2000,GDP_Per_Capita,41262.2841805283
+715,India,Asia,1970,GDP_Per_Capita,223.210402161877
+716,India,Asia,1980,GDP_Per_Capita,356.818417646233
+717,India,Asia,1990,GDP_Per_Capita,443.816554757713
+718,India,Asia,2000,GDP_Per_Capita,1074.8504934395
+719,Indonesia,Asia,1970,GDP_Per_Capita,413.744315432422
+720,Indonesia,Asia,1980,GDP_Per_Capita,660.498131418557
+721,Indonesia,Asia,1990,GDP_Per_Capita,776.199465493106
+722,Indonesia,Asia,2000,GDP_Per_Capita,2384.02373171863
+723,Iraq,Asia,1970,GDP_Per_Capita,1210.69454343411
+724,Iraq,Asia,1990,GDP_Per_Capita,365.636436943613
+725,Iraq,Asia,2000,GDP_Per_Capita,928.956911322696
+726,Ireland,Europe,1970,GDP_Per_Capita,5466.32602221096
+727,Ireland,Europe,1980,GDP_Per_Capita,11266.9966380681
+728,Ireland,Europe,1990,GDP_Per_Capita,24519.5846909544
+729,Ireland,Europe,2000,GDP_Per_Capita,52334.7032951196
+730,Israel,Asia,1970,GDP_Per_Capita,5738.68833349001
+731,Israel,Asia,1980,GDP_Per_Capita,10654.6610010228
+732,Israel,Asia,1990,GDP_Per_Capita,19546.8730697326
+733,Israel,Asia,2000,GDP_Per_Capita,28883.3441296848
+734,Italy,Europe,1970,GDP_Per_Capita,7021.0185725566
+735,Italy,Europe,1980,GDP_Per_Capita,16374.5530647854
+736,Italy,Europe,1990,GDP_Per_Capita,21985.8790208141
+737,Italy,Europe,2000,GDP_Per_Capita,36786.5240549018
+738,Jamaica,North America,1970,GDP_Per_Capita,1431.99533688295
+739,Jamaica,North America,2000,GDP_Per_Capita,4452.12123985948
+740,Jamaica,North America,1980,GDP_Per_Capita,2127.26391868099
+741,Jamaica,North America,1990,GDP_Per_Capita,2206.08628710569
+742,Japan,Asia,1970,GDP_Per_Capita,9035.306132493
+743,Japan,Asia,1980,GDP_Per_Capita,24782.167099641
+744,Japan,Asia,1990,GDP_Per_Capita,32447.2720193752
+745,Japan,Asia,2000,GDP_Per_Capita,41286.4178904505
+746,Jordan,Asia,1970,GDP_Per_Capita,1496.53154864563
+747,Jordan,Asia,1980,GDP_Per_Capita,1285.82336855394
+748,Jordan,Asia,1990,GDP_Per_Capita,1697.52139260954
+749,Jordan,Asia,2000,GDP_Per_Capita,3618.89262682576
+750,Kazakhstan,Asia,1990,GDP_Per_Capita,1758.75947420768
+751,Kazakhstan,Asia,2000,GDP_Per_Capita,7030.00201995031
+752,Kenya,Africa,1990,GDP_Per_Capita,598.9884326645
+753,Kenya,Africa,2000,GDP_Per_Capita,1049.12178759176
+754,Kenya,Africa,1980,GDP_Per_Capita,647.317253712136
+755,Kiribati,Oceania,1970,GDP_Per_Capita,568.337278622399
+756,Kiribati,Oceania,1980,GDP_Per_Capita,497.800428776169
+757,Kiribati,Oceania,1990,GDP_Per_Capita,887.585154254196
+758,Kiribati,Oceania,2000,GDP_Per_Capita,1063.8786056883
+759,Kuwait,Asia,1970,GDP_Per_Capita,17524.8720502155
+760,Kuwait,Asia,1980,GDP_Per_Capita,11001.8180344531
+761,Kuwait,Asia,1990,GDP_Per_Capita,16045.0362815823
+762,Kuwait,Asia,2000,GDP_Per_Capita,37905.9017072373
+763,Latvia,Europe,1990,GDP_Per_Capita,3104.92295381771
+764,Latvia,Europe,2000,GDP_Per_Capita,12422.4284295482
+765,Lebanon,Asia,1970,GDP_Per_Capita,1774.54981266228
+766,Lebanon,Asia,1990,GDP_Per_Capita,4002.09466351708
+767,Lesotho,Africa,2000,GDP_Per_Capita,411.33117186455
+768,Lesotho,Africa,1970,GDP_Per_Capita,229.955256969008
+769,Lesotho,Africa,1990,GDP_Per_Capita,326.7891930279
+770,Lesotho,Africa,1980,GDP_Per_Capita,275.430090104764
+771,Liberia,Africa,1980,GDP_Per_Capita,502.087105842441
+772,Liberia,Africa,2000,GDP_Per_Capita,295.76964896368
+773,Libya,Africa,1970,GDP_Per_Capita,10057.9446744127
+774,Libya,Africa,1980,GDP_Per_Capita,6551.44456220239
+775,Libya,Africa,1990,GDP_Per_Capita,6490.40607487936
+776,Libya,Africa,2000,GDP_Per_Capita,9560.80380767523
+777,Liechtenstein,Europe,1990,GDP_Per_Capita,90341.7462517988
+778,Liechtenstein,Europe,2000,GDP_Per_Capita,158755.600890282
+779,Lithuania,Europe,1990,GDP_Per_Capita,3019.24648701247
+780,Lithuania,Europe,2000,GDP_Per_Capita,11755.0791163584
+781,Luxembourg,Europe,1970,GDP_Per_Capita,15201.3401607755
+782,Luxembourg,Europe,1980,GDP_Per_Capita,25221.5888532114
+783,Luxembourg,Europe,1990,GDP_Per_Capita,50987.1617574253
+784,Luxembourg,Europe,2000,GDP_Per_Capita,108962.506590355
+785,Madagascar,Africa,1970,GDP_Per_Capita,377.175629193393
+786,Madagascar,Africa,1990,GDP_Per_Capita,274.630334633781
+787,Madagascar,Africa,2000,GDP_Per_Capita,455.407373684564
+788,Malawi,Africa,1990,GDP_Per_Capita,244.606166448788
+789,Malawi,Africa,1970,GDP_Per_Capita,305.209195240582
+790,Malawi,Africa,1980,GDP_Per_Capita,312.207068932962
+791,Malawi,Africa,2000,GDP_Per_Capita,432.978243049431
+792,Malaysia,Asia,1970,GDP_Per_Capita,1647.63107389894
+793,Malaysia,Asia,1980,GDP_Per_Capita,2282.47025147258
+794,Malaysia,Asia,1990,GDP_Per_Capita,4411.44164789795
+795,Malaysia,Asia,2000,GDP_Per_Capita,8343.30254803955
+796,Maldives,Asia,1970,GDP_Per_Capita,527.032644800106
+797,Maldives,Asia,1980,GDP_Per_Capita,1135.03935383333
+798,Maldives,Asia,1990,GDP_Per_Capita,3007.51147395971
+799,Maldives,Asia,2000,GDP_Per_Capita,6719.33026777068
+800,Mali,Africa,1980,GDP_Per_Capita,257.203125279719
+801,Mali,Africa,1990,GDP_Per_Capita,315.055891465811
+802,Malta,Europe,1970,GDP_Per_Capita,3153.36305791715
+803,Malta,Europe,1980,GDP_Per_Capita,6092.94325420388
+804,Malta,Europe,1990,GDP_Per_Capita,9756.30575720589
+805,Malta,Europe,2000,GDP_Per_Capita,20928.4734220958
+806,Marshall Islands,Oceania,1970,GDP_Per_Capita,834.38356740664
+807,Marshall Islands,Oceania,1980,GDP_Per_Capita,1633.30168044812
+808,Marshall Islands,Oceania,1990,GDP_Per_Capita,2143.327413902
+809,Marshall Islands,Oceania,2000,GDP_Per_Capita,2402.24968344558
+810,Mauritania,Africa,1990,GDP_Per_Capita,757.809078360693
+811,Mauritania,Africa,2000,GDP_Per_Capita,1418.94082542364
+812,Mauritius,Africa,1970,GDP_Per_Capita,1378.70679092182
+813,Mauritius,Africa,1980,GDP_Per_Capita,2102.27611139463
+814,Mauritius,Africa,1990,GDP_Per_Capita,3762.64477343761
+815,Mauritius,Africa,2000,GDP_Per_Capita,7132.64423296455
+816,Mexico,North America,1970,GDP_Per_Capita,2594.31079399794
+817,Mexico,North America,1980,GDP_Per_Capita,3173.0151395039
+818,Mexico,North America,1990,GDP_Per_Capita,6230.69720074254
+819,Mexico,North America,2000,GDP_Per_Capita,8321.85985639121
+820,Mongolia,Asia,1970,GDP_Per_Capita,245.636453972012
+821,Mongolia,Asia,1980,GDP_Per_Capita,815.531827321245
+822,Mongolia,Asia,1990,GDP_Per_Capita,519.422395534993
+823,Mongolia,Asia,2000,GDP_Per_Capita,1993.07465730398
+824,Montenegro,Europe,2000,GDP_Per_Capita,6589.38195455114
+825,Montenegro,Europe,1990,GDP_Per_Capita,2806.66803586126
+826,Morocco,Africa,1970,GDP_Per_Capita,974.622222908292
+827,Morocco,Africa,1980,GDP_Per_Capita,1110.83539769633
+828,Morocco,Africa,1990,GDP_Per_Capita,1481.72619025499
+829,Morocco,Africa,2000,GDP_Per_Capita,2965.34572190605
+830,Mozambique,Africa,1970,GDP_Per_Capita,573.844246153663
+831,Mozambique,Africa,1980,GDP_Per_Capita,273.153975907292
+832,Mozambique,Africa,1990,GDP_Per_Capita,344.701780596292
+833,Mozambique,Africa,2000,GDP_Per_Capita,531.026967161011
+834,Myanmar,Asia,1980,GDP_Per_Capita,149.09946997578
+835,Myanmar,Asia,1990,GDP_Per_Capita,158.067611231893
+836,Myanmar,Asia,2000,GDP_Per_Capita,730.232016907837
+837,Namibia,Africa,2000,GDP_Per_Capita,4292.34326640643
+838,Namibia,Africa,1990,GDP_Per_Capita,2034.85734345299
+839,Nauru,Oceania,2000,GDP_Per_Capita,5300.80926734442
+840,Nauru,Oceania,1990,GDP_Per_Capita,3570.95100207223
+841,Nauru,Oceania,1970,GDP_Per_Capita,5034.02706823436
+842,Nepal,Asia,1970,GDP_Per_Capita,130.418173774992
+843,Nepal,Asia,1980,GDP_Per_Capita,184.10896276005
+844,Nepal,Asia,1990,GDP_Per_Capita,222.874218169444
+845,Nepal,Asia,2000,GDP_Per_Capita,524.639223534909
+846,Netherlands,Europe,1970,GDP_Per_Capita,12796.9951509961
+847,Netherlands,Europe,1980,GDP_Per_Capita,17741.1474101487
+848,Netherlands,Europe,1990,GDP_Per_Capita,27859.1777558115
+849,Netherlands,Europe,2000,GDP_Per_Capita,52492.382474924
+850,New Zealand,Oceania,1970,GDP_Per_Capita,6681.66455326576
+851,New Zealand,Oceania,1980,GDP_Per_Capita,13388.5657831411
+852,New Zealand,Oceania,1990,GDP_Per_Capita,15007.6322322763
+853,New Zealand,Oceania,2000,GDP_Per_Capita,28207.7422218362
+854,Nicaragua,North America,1970,GDP_Per_Capita,920.533181079436
+855,Nicaragua,North America,1980,GDP_Per_Capita,830.254358127983
+856,Nicaragua,North America,1990,GDP_Per_Capita,958.406927195637
+857,Nicaragua,North America,2000,GDP_Per_Capita,1438.09074581137
+858,Niger,Africa,1980,GDP_Per_Capita,372.655784973717
+859,Niger,Africa,1990,GDP_Per_Capita,239.908480384252
+860,Niger,Africa,2000,GDP_Per_Capita,449.456664316869
+861,Nigeria,Africa,1980,GDP_Per_Capita,2761.68581658871
+862,Nigeria,Africa,2000,GDP_Per_Capita,1863.90823340049
+863,Norway,Europe,1970,GDP_Per_Capita,11462.3668360275
+864,Norway,Europe,1980,GDP_Per_Capita,24280.1023964887
+865,Norway,Europe,1990,GDP_Per_Capita,34786.7071923354
+866,Norway,Europe,2000,GDP_Per_Capita,79969.4396922595
+867,Oman,Asia,1980,GDP_Per_Capita,5408.03010439109
+868,Oman,Asia,1990,GDP_Per_Capita,7711.08050304575
+869,Oman,Asia,2000,GDP_Per_Capita,20557.3141468901
+870,Pakistan,Asia,1970,GDP_Per_Capita,333.270354587264
+871,Pakistan,Asia,1980,GDP_Per_Capita,439.689046706567
+872,Pakistan,Asia,1990,GDP_Per_Capita,519.58873206552
+873,Pakistan,Asia,2000,GDP_Per_Capita,880.326719998429
+874,Palau,Oceania,2000,GDP_Per_Capita,7494.32221433641
+875,Palau,Oceania,1990,GDP_Per_Capita,6414.70381776977
+876,Panama,North America,1970,GDP_Per_Capita,1690.80338005292
+877,Panama,North America,1980,GDP_Per_Capita,2585.9842632056852
+878,Panama,North America,1990,GDP_Per_Capita,3955.34402368915
+879,Panama,North America,2000,GDP_Per_Capita,7618.43844917447
+880,Papua New Guinea,Oceania,1970,GDP_Per_Capita,1263.70101726545
+881,Papua New Guinea,Oceania,1990,GDP_Per_Capita,975.408315661901
+882,Papua New Guinea,Oceania,2000,GDP_Per_Capita,1578.96843960642
+883,Paraguay,South America,1970,GDP_Per_Capita,1303.10960645527
+884,Paraguay,South America,1980,GDP_Per_Capita,1263.16253983948
+885,Paraguay,South America,1990,GDP_Per_Capita,1880.27897285301
+886,Paraguay,South America,2000,GDP_Per_Capita,3921.2050281587
+887,Peru,South America,1970,GDP_Per_Capita,733.529196821532
+888,Peru,South America,1980,GDP_Per_Capita,1607.17482480915
+889,Peru,South America,1990,GDP_Per_Capita,1912.3942358544
+890,Peru,South America,2000,GDP_Per_Capita,4165.92707049917
+891,Philippines,Asia,1970,GDP_Per_Capita,662.04654328019
+892,Philippines,Asia,1990,GDP_Per_Capita,1123.16356191368
+893,Philippines,Asia,2000,GDP_Per_Capita,1893.28162262113
+894,Poland,Europe,1970,GDP_Per_Capita,1369.19923099899
+895,Poland,Europe,1980,GDP_Per_Capita,1880.16329158978
+896,Poland,Europe,1990,GDP_Per_Capita,4433.08155139153
+897,Poland,Europe,2000,GDP_Per_Capita,11405.223333635
+898,Portugal,Europe,1970,GDP_Per_Capita,2748.2078820023
+899,Portugal,Europe,1980,GDP_Per_Capita,6047.13652322054
+900,Portugal,Europe,1990,GDP_Per_Capita,12451.7781944085
+901,Portugal,Europe,2000,GDP_Per_Capita,23008.1261461732
+902,Puerto Rico,North America,1970,GDP_Per_Capita,4083.49867096539
+903,Puerto Rico,North America,1980,GDP_Per_Capita,8157.78753121678
+904,Puerto Rico,North America,1990,GDP_Per_Capita,15394.2801020442
+905,Puerto Rico,North America,2000,GDP_Per_Capita,25778.8640039327
+906,Qatar,Asia,1980,GDP_Per_Capita,15197.8750981787
+907,Qatar,Asia,1990,GDP_Per_Capita,17651.5446818047
+908,Qatar,Asia,2000,GDP_Per_Capita,60734.0626113088
+909,Romania,Europe,1980,GDP_Per_Capita,2112.55170311951
+910,Romania,Europe,1970,GDP_Per_Capita,1275.47470558659
+911,Romania,Europe,1990,GDP_Per_Capita,1631.34222044833
+912,Romania,Europe,2000,GDP_Per_Capita,8506.7704183449
+913,Russian Federation,Europe,2000,GDP_Per_Capita,8623.8036670827
+914,Russian Federation,Europe,1990,GDP_Per_Capita,3878.64558197748
+915,Rwanda,Africa,1970,GDP_Per_Capita,58.4666318310897
+916,Rwanda,Africa,1990,GDP_Per_Capita,332.656380406473
+917,Rwanda,Africa,2000,GDP_Per_Capita,564.678936026227
+918,Samoa,Oceania,1970,GDP_Per_Capita,686.392510117851
+919,Samoa,Oceania,1980,GDP_Per_Capita,670.430335521095
+920,Samoa,Oceania,1990,GDP_Per_Capita,1295.72103310604
+921,Samoa,Oceania,2000,GDP_Per_Capita,3565.14067059782
+922,Sao Tome and Principe,Africa,1980,GDP_Per_Capita,822.183581009606
+923,Sao Tome and Principe,Africa,1990,GDP_Per_Capita,942.751823102417
+924,Sao Tome and Principe,Africa,2000,GDP_Per_Capita,1054.41620063238
+925,Saudi Arabia,Asia,1990,GDP_Per_Capita,7697.27195331417
+926,Saudi Arabia,Asia,2000,GDP_Per_Capita,15064.631309859
+927,Senegal,Africa,1970,GDP_Per_Capita,697.117471767494
+928,Senegal,Africa,1980,GDP_Per_Capita,890.228990910267
+929,Senegal,Africa,1990,GDP_Per_Capita,999.223448728609
+930,Senegal,Africa,2000,GDP_Per_Capita,1318.66378158498
+931,Serbia,Europe,1990,GDP_Per_Capita,2163.86365954271
+932,Serbia,Europe,2000,GDP_Per_Capita,5874.43993537143
+933,Seychelles,Africa,1980,GDP_Per_Capita,2642.10416335793
+934,Seychelles,Africa,1990,GDP_Per_Capita,9533.93928166812
+935,Seychelles,Africa,2000,GDP_Per_Capita,9183.68380456839
+936,Sierra Leone,Africa,1970,GDP_Per_Capita,358.000475421304
+937,Sierra Leone,Africa,1980,GDP_Per_Capita,261.94213453178503
+938,Sierra Leone,Africa,1990,GDP_Per_Capita,203.28714048957
+939,Sierra Leone,Africa,2000,GDP_Per_Capita,392.006674751954
+940,Singapore,Asia,1970,GDP_Per_Capita,4122.61327055962
+941,Singapore,Asia,1980,GDP_Per_Capita,10671.8832545701
+942,Singapore,Asia,1990,GDP_Per_Capita,21754.0098450548
+943,Singapore,Asia,2000,GDP_Per_Capita,38747.1145815222
+944,Slovenia,Europe,1990,GDP_Per_Capita,11434.0979184133
+945,Slovenia,Europe,2000,GDP_Per_Capita,24621.413841575
+946,Solomon Islands,Oceania,1980,GDP_Per_Capita,532.880783049882
+947,Solomon Islands,Oceania,1990,GDP_Per_Capita,1064.80735449979
+948,Somalia,Africa,1970,GDP_Per_Capita,95.6578535613616
+949,Somalia,Africa,1980,GDP_Per_Capita,127.376288900432
+950,Somalia,Africa,2000,GDP_Per_Capita,251.371291702842
+951,South Africa,Africa,2000,GDP_Per_Capita,3241.66124019474
+952,South Africa,Africa,1970,GDP_Per_Capita,2030.75149052014
+953,South Africa,Africa,1990,GDP_Per_Capita,2926.44063688943
+954,Spain,Europe,1970,GDP_Per_Capita,5770.16140331981
+955,Spain,Europe,1980,GDP_Per_Capita,10677.1330274681
+956,Spain,Europe,1990,GDP_Per_Capita,15654.6565146925
+957,Spain,Europe,2000,GDP_Per_Capita,32037.2091902656
+958,Sri Lanka,Asia,1970,GDP_Per_Capita,276.713342906569
+959,Sri Lanka,Asia,1980,GDP_Per_Capita,485.219230306639
+960,Sri Lanka,Asia,2000,GDP_Per_Capita,1419.75003477059
+961,Sri Lanka,Asia,1990,GDP_Per_Capita,686.462577942977
+962,Suriname,South America,1970,GDP_Per_Capita,2841.63315264361
+963,Suriname,South America,1980,GDP_Per_Capita,1846.98575555732
+964,Suriname,South America,1990,GDP_Per_Capita,2491.66036552019
+965,Suriname,South America,2000,GDP_Per_Capita,7300.87435451753
+966,Sweden,Europe,1970,GDP_Per_Capita,14872.9989227747
+967,Sweden,Europe,1980,GDP_Per_Capita,25626.0545433849
+968,Sweden,Europe,1990,GDP_Per_Capita,30972.4356601415
+969,Sweden,Europe,2000,GDP_Per_Capita,46932.2156879948
+970,Switzerland,Europe,1970,GDP_Per_Capita,18281.1639658854
+971,Switzerland,Europe,1980,GDP_Per_Capita,31337.8193310986
+972,Switzerland,Europe,1990,GDP_Per_Capita,41797.9763925693
+973,Switzerland,Europe,2000,GDP_Per_Capita,72168.2506953755
+974,Tajikistan,Asia,1990,GDP_Per_Capita,173.631722008596
+975,Tajikistan,Asia,2000,GDP_Per_Capita,666.708362401642
+976,Thailand,Asia,1970,GDP_Per_Capita,637.501825567782
+977,Thailand,Asia,1980,GDP_Per_Capita,1378.29368575885
+978,Thailand,Asia,1990,GDP_Per_Capita,1841.04293314729
+979,Thailand,Asia,2000,GDP_Per_Capita,4154.18614182554
+980,Timor-Leste,Asia,2000,GDP_Per_Capita,682.172080822869
+981,Togo,Africa,1970,GDP_Per_Capita,427.714484617436
+982,Togo,Africa,1980,GDP_Per_Capita,453.873865821285
+983,Togo,Africa,1990,GDP_Per_Capita,360.519318217407
+984,Tonga,Oceania,1970,GDP_Per_Capita,605.26057668587
+985,Tonga,Oceania,1980,GDP_Per_Capita,1541.15086788847
+986,Tonga,Oceania,1990,GDP_Per_Capita,1933.35618655192
+987,Tonga,Oceania,2000,GDP_Per_Capita,3151.95031465201
+988,Trinidad and Tobago,North America,1970,GDP_Per_Capita,4367.67929273996
+989,Trinidad and Tobago,North America,1980,GDP_Per_Capita,3632.55070241628
+990,Trinidad and Tobago,North America,1990,GDP_Per_Capita,4301.26554189992
+991,Trinidad and Tobago,North America,2000,GDP_Per_Capita,14445.2140111783
+992,Tunisia,Africa,1970,GDP_Per_Capita,1230.12201758145
+993,Tunisia,Africa,1980,GDP_Per_Capita,1343.29615060732
+994,Tunisia,Africa,1990,GDP_Per_Capita,2344.00574518984
+995,Tunisia,Africa,2000,GDP_Per_Capita,4029.46120631103
+996,Turkmenistan,Asia,1990,GDP_Per_Capita,856.888554260673
+997,Turkmenistan,Asia,2000,GDP_Per_Capita,3901.67028309872
+998,Tuvalu,Oceania,1970,GDP_Per_Capita,529.470726804929
+999,Tuvalu,Oceania,1990,GDP_Per_Capita,1429.69409132325
+1000,Uganda,Africa,1980,GDP_Per_Capita,419.134773509108
+1001,Uganda,Africa,1990,GDP_Per_Capita,305.601526235194
+1002,Uganda,Africa,2000,GDP_Per_Capita,793.279606625486
+1003,Ukraine,Europe,2000,GDP_Per_Capita,2650.28029993595
+1004,United Arab Emirates,Asia,1980,GDP_Per_Capita,23443.4129024975
+1005,United Arab Emirates,Asia,1990,GDP_Per_Capita,27618.1505688275
+1006,United Arab Emirates,Asia,2000,GDP_Per_Capita,32137.1447460508
+1007,Uruguay,South America,1970,GDP_Per_Capita,2617.82511239995
+1008,Uruguay,South America,1980,GDP_Per_Capita,2777.29414303375
+1009,Uruguay,South America,1990,GDP_Per_Capita,7314.486924295
+1010,Uruguay,South America,2000,GDP_Per_Capita,9467.5352793624
+1011,Uzbekistan,Asia,1990,GDP_Per_Capita,833.560402021839
+1012,Uzbekistan,Asia,2000,GDP_Per_Capita,1501.04345640077
+1013,Vanuatu,Oceania,1970,GDP_Per_Capita,1131.32807962346
+1014,Vanuatu,Oceania,1980,GDP_Per_Capita,1073.64865217008
+1015,Zambia,Africa,1990,GDP_Per_Capita,493.70445580168
+1016,Zambia,Africa,2000,GDP_Per_Capita,1150.93892148996
+1017,Zimbabwe,Africa,2000,GDP_Per_Capita,762.297957461508
+1018,Zimbabwe,Africa,1990,GDP_Per_Capita,1340.74301023355
+1019,Zimbabwe,Africa,1980,GDP_Per_Capita,1070.46136109319
+1020,Afghanistan,Asia,1970,Birth Rate (live births per 1000),48.1
+1021,Afghanistan,Asia,2000,Birth Rate (live births per 1000),38.400000000000006
+1022,Albania,Europe,1970,Birth Rate (live births per 1000),32.5
+1023,Albania,Europe,1980,Birth Rate (live births per 1000),26.2
+1024,Albania,Europe,1990,Birth Rate (live births per 1000),23.6
+1025,Albania,Europe,2000,Birth Rate (live births per 1000),12.6
+1026,Algeria,Africa,1970,Birth Rate (live births per 1000),43.9
+1027,Algeria,Africa,1980,Birth Rate (live births per 1000),38.3
+1028,Algeria,Africa,1990,Birth Rate (live births per 1000),25.1
+1029,Algeria,Africa,2000,Birth Rate (live births per 1000),21.4
+1030,Angola,Africa,2000,Birth Rate (live births per 1000),42.5
+1031,Antigua and Barbuda,North America,1970,Birth Rate (live births per 1000),25.4
+1032,Antigua and Barbuda,North America,1980,Birth Rate (live births per 1000),18.7
+1033,Antigua and Barbuda,North America,1990,Birth Rate (live births per 1000),19.9
+1034,Antigua and Barbuda,North America,2000,Birth Rate (live births per 1000),21.1
+1035,Argentina,South America,1970,Birth Rate (live births per 1000),22.7
+1036,Argentina,South America,1980,Birth Rate (live births per 1000),21.4
+1037,Argentina,South America,1990,Birth Rate (live births per 1000),18.9
+1038,Argentina,South America,2000,Birth Rate (live births per 1000),18.4
+1039,Armenia,Europe,1990,Birth Rate (live births per 1000),13.0
+1040,Armenia,Europe,2000,Birth Rate (live births per 1000),11.7
+1041,Aruba,North America,1970,Birth Rate (live births per 1000),20.7
+1042,Aruba,North America,1980,Birth Rate (live births per 1000),18.2
+1043,Aruba,North America,1990,Birth Rate (live births per 1000),17.8
+1044,Aruba,North America,2000,Birth Rate (live births per 1000),12.3
+1045,Australia,Oceania,1970,Birth Rate (live births per 1000),20.6
+1046,Australia,Oceania,1980,Birth Rate (live births per 1000),15.7
+1047,Australia,Oceania,1990,Birth Rate (live births per 1000),14.2
+1048,Australia,Oceania,2000,Birth Rate (live births per 1000),12.7
+1049,Austria,Europe,1970,Birth Rate (live births per 1000),15.0
+1050,Austria,Europe,1980,Birth Rate (live births per 1000),11.6
+1051,Austria,Europe,1990,Birth Rate (live births per 1000),11.2
+1052,Austria,Europe,2000,Birth Rate (live births per 1000),9.5
+1053,Azerbaijan,Europe,1990,Birth Rate (live births per 1000),18.6
+1054,Azerbaijan,Europe,2000,Birth Rate (live births per 1000),16.7
+1055,Bahrain,Asia,1970,Birth Rate (live births per 1000),29.2
+1056,Bahrain,Asia,1980,Birth Rate (live births per 1000),29.5
+1057,Bahrain,Asia,1990,Birth Rate (live births per 1000),24.1
+1058,Bahrain,Asia,2000,Birth Rate (live births per 1000),18.15
+1059,Bangladesh,Asia,1970,Birth Rate (live births per 1000),42.9
+1060,Bangladesh,Asia,1980,Birth Rate (live births per 1000),38.0
+1061,Bangladesh,Asia,1990,Birth Rate (live births per 1000),29.5
+1062,Bangladesh,Asia,2000,Birth Rate (live births per 1000),27.4
+1063,Barbados,North America,1970,Birth Rate (live births per 1000),20.4
+1064,Barbados,North America,1980,Birth Rate (live births per 1000),16.9
+1065,Barbados,North America,1990,Birth Rate (live births per 1000),15.8
+1066,Barbados,North America,2000,Birth Rate (live births per 1000),12.85
+1067,Belarus,Europe,2000,Birth Rate (live births per 1000),9.3
+1068,Belarus,Europe,1990,Birth Rate (live births per 1000),9.9
+1069,Belgium,Europe,1970,Birth Rate (live births per 1000),14.7
+1070,Belgium,Europe,1980,Birth Rate (live births per 1000),11.6
+1071,Belgium,Europe,1990,Birth Rate (live births per 1000),11.4
+1072,Belgium,Europe,2000,Birth Rate (live births per 1000),11.65
+1073,Belize,North America,1970,Birth Rate (live births per 1000),36.4
+1074,Belize,North America,1990,Birth Rate (live births per 1000),30.1
+1075,Belize,North America,1980,Birth Rate (live births per 1000),35.7
+1076,Benin,Africa,1980,Birth Rate (live births per 1000),54.0
+1077,Benin,Africa,1990,Birth Rate (live births per 1000),40.6
+1078,Benin,Africa,2000,Birth Rate (live births per 1000),41.35
+1079,Bermuda,North America,1970,Birth Rate (live births per 1000),20.0
+1080,Bermuda,North America,1980,Birth Rate (live births per 1000),16.0
+1081,Bermuda,North America,1990,Birth Rate (live births per 1000),13.6
+1082,Bermuda,North America,2000,Birth Rate (live births per 1000),12.9
+1083,Bhutan,Asia,1990,Birth Rate (live births per 1000),39.9
+1084,Bhutan,Asia,2000,Birth Rate (live births per 1000),26.55
+1085,Bosnia and Herzegovina,Europe,1990,Birth Rate (live births per 1000),12.8
+1086,Bosnia and Herzegovina,Europe,2000,Birth Rate (live births per 1000),9.0
+1087,Botswana,Africa,2000,Birth Rate (live births per 1000),29.3
+1088,Botswana,Africa,1970,Birth Rate (live births per 1000),44.5
+1089,Botswana,Africa,1980,Birth Rate (live births per 1000),41.6
+1090,Brazil,South America,1970,Birth Rate (live births per 1000),37.7
+1091,Brazil,South America,1980,Birth Rate (live births per 1000),31.9
+1092,Brazil,South America,1990,Birth Rate (live births per 1000),21.6
+1093,Brazil,South America,2000,Birth Rate (live births per 1000),17.049999999999997
+1094,Bulgaria,Europe,1970,Birth Rate (live births per 1000),16.3
+1095,Bulgaria,Europe,1990,Birth Rate (live births per 1000),8.6
+1096,Bulgaria,Europe,1980,Birth Rate (live births per 1000),13.3
+1097,Bulgaria,Europe,2000,Birth Rate (live births per 1000),9.2
+1098,Burkina Faso,Africa,1980,Birth Rate (live births per 1000),49.6
+1099,Burkina Faso,Africa,1990,Birth Rate (live births per 1000),46.1
+1100,Burkina Faso,Africa,2000,Birth Rate (live births per 1000),40.7
+1101,Burundi,Africa,1970,Birth Rate (live births per 1000),44.5
+1102,Burundi,Africa,1990,Birth Rate (live births per 1000),48.0
+1103,Burundi,Africa,2000,Birth Rate (live births per 1000),38.9
+1104,Cambodia,Asia,1990,Birth Rate (live births per 1000),38.0
+1105,Cambodia,Asia,2000,Birth Rate (live births per 1000),24.85
+1106,Cameroon,Africa,1990,Birth Rate (live births per 1000),35.4
+1107,Cameroon,Africa,1980,Birth Rate (live births per 1000),41.0
+1108,Cameroon,Africa,2000,Birth Rate (live births per 1000),37.8
+1109,Canada,North America,1970,Birth Rate (live births per 1000),17.1
+1110,Canada,North America,1980,Birth Rate (live births per 1000),14.5
+1111,Canada,North America,1990,Birth Rate (live births per 1000),12.9
+1112,Canada,North America,2000,Birth Rate (live births per 1000),10.95
+1113,Central African Republic,Africa,1970,Birth Rate (live births per 1000),43.0
+1114,Central African Republic,Africa,1990,Birth Rate (live births per 1000),38.3
+1115,Central African Republic,Africa,1980,Birth Rate (live births per 1000),41.6
+1116,Chad,Africa,1990,Birth Rate (live births per 1000),43.6
+1117,Chad,Africa,2000,Birth Rate (live births per 1000),44.6
+1118,Chile,South America,1970,Birth Rate (live births per 1000),27.4
+1119,Chile,South America,1980,Birth Rate (live births per 1000),21.6
+1120,Chile,South America,1990,Birth Rate (live births per 1000),18.5
+1121,Chile,South America,2000,Birth Rate (live births per 1000),14.55
+1122,Colombia,South America,1970,Birth Rate (live births per 1000),34.8
+1123,Colombia,South America,1980,Birth Rate (live births per 1000),28.1
+1124,Colombia,South America,1990,Birth Rate (live births per 1000),26.5
+1125,Colombia,South America,2000,Birth Rate (live births per 1000),19.2
+1126,Comoros,Africa,1980,Birth Rate (live births per 1000),46.0
+1127,Comoros,Africa,1990,Birth Rate (live births per 1000),31.6
+1128,Costa Rica,North America,1970,Birth Rate (live births per 1000),33.4
+1129,Costa Rica,North America,1980,Birth Rate (live births per 1000),33.8
+1130,Costa Rica,North America,1990,Birth Rate (live births per 1000),25.6
+1131,Costa Rica,North America,2000,Birth Rate (live births per 1000),16.5
+1132,Croatia,Europe,1990,Birth Rate (live births per 1000),10.7
+1133,Croatia,Europe,2000,Birth Rate (live births per 1000),9.6
+1134,Cuba,North America,1970,Birth Rate (live births per 1000),27.7
+1135,Cuba,North America,1980,Birth Rate (live births per 1000),18.1
+1136,Cuba,North America,1990,Birth Rate (live births per 1000),13.5
+1137,Cuba,North America,2000,Birth Rate (live births per 1000),10.7
+1138,Cyprus,Europe,1970,Birth Rate (live births per 1000),19.2
+1139,Cyprus,Europe,1980,Birth Rate (live births per 1000),18.5
+1140,Cyprus,Europe,1990,Birth Rate (live births per 1000),11.5
+1141,Cyprus,Europe,2000,Birth Rate (live births per 1000),8.4
+1142,Denmark,Europe,1970,Birth Rate (live births per 1000),14.4
+1143,Denmark,Europe,1980,Birth Rate (live births per 1000),10.5
+1144,Denmark,Europe,1990,Birth Rate (live births per 1000),13.3
+1145,Denmark,Europe,2000,Birth Rate (live births per 1000),11.9
+1146,Djibouti,Africa,1990,Birth Rate (live births per 1000),30.3
+1147,Dominica,North America,1970,Birth Rate (live births per 1000),35.8
+1148,Dominica,North America,1990,Birth Rate (live births per 1000),20.7
+1149,Dominica,North America,2000,Birth Rate (live births per 1000),14.3
+1150,Dominica,North America,1980,Birth Rate (live births per 1000),22.8
+1151,Dominican Republic,North America,1970,Birth Rate (live births per 1000),36.9
+1152,Dominican Republic,North America,1990,Birth Rate (live births per 1000),27.7
+1153,Dominican Republic,North America,2000,Birth Rate (live births per 1000),22.799999999999997
+1154,Ecuador,South America,1970,Birth Rate (live births per 1000),37.4
+1155,Ecuador,South America,1980,Birth Rate (live births per 1000),32.8
+1156,Ecuador,South America,1990,Birth Rate (live births per 1000),28.2
+1157,Ecuador,South America,2000,Birth Rate (live births per 1000),24.2
+1158,El Salvador,North America,1970,Birth Rate (live births per 1000),40.0
+1159,El Salvador,North America,1980,Birth Rate (live births per 1000),29.0
+1160,El Salvador,North America,1990,Birth Rate (live births per 1000),28.1
+1161,El Salvador,North America,2000,Birth Rate (live births per 1000),18.05
+1162,Equatorial Guinea,Africa,1980,Birth Rate (live births per 1000),42.0
+1163,Equatorial Guinea,Africa,1990,Birth Rate (live births per 1000),43.1
+1164,Equatorial Guinea,Africa,2000,Birth Rate (live births per 1000),43.2
+1165,Eritrea,Africa,1990,Birth Rate (live births per 1000),38.3
+1166,Estonia,Europe,1990,Birth Rate (live births per 1000),9.4
+1167,Estonia,Europe,2000,Birth Rate (live births per 1000),10.7
+1168,Ethiopia,Africa,1990,Birth Rate (live births per 1000),39.0
+1169,Ethiopia,Africa,2000,Birth Rate (live births per 1000),35.1
+1170,Fiji,Oceania,1970,Birth Rate (live births per 1000),29.9
+1171,Fiji,Oceania,1980,Birth Rate (live births per 1000),27.9
+1172,Fiji,Oceania,1990,Birth Rate (live births per 1000),24.2
+1173,Fiji,Oceania,2000,Birth Rate (live births per 1000),21.55
+1174,Finland,Europe,1970,Birth Rate (live births per 1000),14.0
+1175,Finland,Europe,1980,Birth Rate (live births per 1000),12.8
+1176,Finland,Europe,1990,Birth Rate (live births per 1000),12.3
+1177,Finland,Europe,2000,Birth Rate (live births per 1000),11.0
+1178,France,Europe,1970,Birth Rate (live births per 1000),16.7
+1179,France,Europe,1980,Birth Rate (live births per 1000),13.9
+1180,France,Europe,1990,Birth Rate (live births per 1000),12.6
+1181,France,Europe,2000,Birth Rate (live births per 1000),12.7
+1182,Gabon,Africa,1990,Birth Rate (live births per 1000),36.0
+1183,Georgia,Europe,1990,Birth Rate (live births per 1000),11.9
+1184,Georgia,Europe,2000,Birth Rate (live births per 1000),10.7
+1185,Germany,Europe,1970,Birth Rate (live births per 1000),13.5
+1186,Germany,Europe,1980,Birth Rate (live births per 1000),10.5
+1187,Germany,Europe,1990,Birth Rate (live births per 1000),9.4
+1188,Germany,Europe,2000,Birth Rate (live births per 1000),8.3
+1189,Ghana,Africa,1970,Birth Rate (live births per 1000),49.6
+1190,Ghana,Africa,1990,Birth Rate (live births per 1000),34.45
+1191,Ghana,Africa,2000,Birth Rate (live births per 1000),31.700000000000003
+1192,Greece,Europe,1970,Birth Rate (live births per 1000),16.5
+1193,Greece,Europe,1980,Birth Rate (live births per 1000),11.7
+1194,Greece,Europe,1990,Birth Rate (live births per 1000),9.5
+1195,Greece,Europe,2000,Birth Rate (live births per 1000),9.7
+1196,Grenada,North America,1970,Birth Rate (live births per 1000),29.0
+1197,Grenada,North America,1980,Birth Rate (live births per 1000),34.0
+1198,Grenada,North America,1990,Birth Rate (live births per 1000),23.2
+1199,Guatemala,North America,1970,Birth Rate (live births per 1000),40.5
+1200,Guatemala,North America,1980,Birth Rate (live births per 1000),42.2
+1201,Guatemala,North America,1990,Birth Rate (live births per 1000),37.2
+1202,Guatemala,North America,2000,Birth Rate (live births per 1000),28.25
+1203,Guinea,Africa,1980,Birth Rate (live births per 1000),45.5
+1204,Guinea,Africa,1990,Birth Rate (live births per 1000),37.3
+1205,Guinea,Africa,2000,Birth Rate (live births per 1000),38.4
+1206,Guyana,South America,1970,Birth Rate (live births per 1000),33.4
+1207,Guyana,South America,1980,Birth Rate (live births per 1000),24.5
+1208,Guyana,South America,1990,Birth Rate (live births per 1000),20.7
+1209,Guyana,South America,2000,Birth Rate (live births per 1000),21.9
+1210,Haiti,North America,1970,Birth Rate (live births per 1000),37.6
+1211,Haiti,North America,1980,Birth Rate (live births per 1000),36.0
+1212,Haiti,North America,1990,Birth Rate (live births per 1000),34.1
+1213,Haiti,North America,2000,Birth Rate (live births per 1000),27.049999999999997
+1214,Honduras,North America,1970,Birth Rate (live births per 1000),49.2
+1215,Honduras,North America,1980,Birth Rate (live births per 1000),38.0
+1216,Honduras,North America,1990,Birth Rate (live births per 1000),28.8
+1217,Hungary,Europe,1970,Birth Rate (live births per 1000),14.7
+1218,Hungary,Europe,1980,Birth Rate (live births per 1000),12.2
+1219,Hungary,Europe,1990,Birth Rate (live births per 1000),11.0
+1220,Hungary,Europe,2000,Birth Rate (live births per 1000),9.7
+1221,Iceland,Europe,1970,Birth Rate (live births per 1000),19.7
+1222,Iceland,Europe,1980,Birth Rate (live births per 1000),16.0
+1223,Iceland,Europe,1990,Birth Rate (live births per 1000),16.0
+1224,Iceland,Europe,2000,Birth Rate (live births per 1000),14.5
+1225,India,Asia,1970,Birth Rate (live births per 1000),36.9
+1226,India,Asia,1980,Birth Rate (live births per 1000),32.9
+1227,India,Asia,1990,Birth Rate (live births per 1000),28.3
+1228,India,Asia,2000,Birth Rate (live births per 1000),23.8
+1229,Indonesia,Asia,1970,Birth Rate (live births per 1000),40.6
+1230,Indonesia,Asia,1980,Birth Rate (live births per 1000),35.5
+1231,Indonesia,Asia,1990,Birth Rate (live births per 1000),23.0
+1232,Indonesia,Asia,2000,Birth Rate (live births per 1000),20.6
+1233,Iraq,Asia,1970,Birth Rate (live births per 1000),42.6
+1234,Iraq,Asia,1990,Birth Rate (live births per 1000),29.4
+1235,Iraq,Asia,2000,Birth Rate (live births per 1000),31.0
+1236,Ireland,Europe,1970,Birth Rate (live births per 1000),21.9
+1237,Ireland,Europe,1980,Birth Rate (live births per 1000),17.7
+1238,Ireland,Europe,1990,Birth Rate (live births per 1000),13.5
+1239,Ireland,Europe,2000,Birth Rate (live births per 1000),14.7
+1240,Israel,Asia,1970,Birth Rate (live births per 1000),27.2
+1241,Israel,Asia,1980,Birth Rate (live births per 1000),23.5
+1242,Israel,Asia,1990,Birth Rate (live births per 1000),21.1
+1243,Israel,Asia,2000,Birth Rate (live births per 1000),20.8
+1244,Italy,Europe,1970,Birth Rate (live births per 1000),16.8
+1245,Italy,Europe,1980,Birth Rate (live births per 1000),10.2
+1246,Italy,Europe,1990,Birth Rate (live births per 1000),9.2
+1247,Italy,Europe,2000,Birth Rate (live births per 1000),9.5
+1248,Jamaica,North America,1970,Birth Rate (live births per 1000),34.7
+1249,Jamaica,North America,2000,Birth Rate (live births per 1000),17.05
+1250,Jamaica,North America,1980,Birth Rate (live births per 1000),24.5
+1251,Jamaica,North America,1990,Birth Rate (live births per 1000),25.6
+1252,Japan,Asia,1970,Birth Rate (live births per 1000),19.0
+1253,Japan,Asia,1980,Birth Rate (live births per 1000),11.9
+1254,Japan,Asia,1990,Birth Rate (live births per 1000),9.5
+1255,Japan,Asia,2000,Birth Rate (live births per 1000),8.4
+1256,Jordan,Asia,1970,Birth Rate (live births per 1000),47.7
+1257,Jordan,Asia,1980,Birth Rate (live births per 1000),36.6
+1258,Jordan,Asia,1990,Birth Rate (live births per 1000),32.2
+1259,Jordan,Asia,2000,Birth Rate (live births per 1000),28.5
+1260,Kazakhstan,Asia,1990,Birth Rate (live births per 1000),17.5
+1261,Kazakhstan,Asia,2000,Birth Rate (live births per 1000),20.549999999999997
+1262,Kenya,Africa,1990,Birth Rate (live births per 1000),34.8
+1263,Kenya,Africa,2000,Birth Rate (live births per 1000),36.15
+1264,Kenya,Africa,1980,Birth Rate (live births per 1000),48.0
+1265,Kiribati,Oceania,1970,Birth Rate (live births per 1000),34.9
+1266,Kiribati,Oceania,1980,Birth Rate (live births per 1000),37.5
+1267,Kiribati,Oceania,1990,Birth Rate (live births per 1000),32.2
+1268,Kiribati,Oceania,2000,Birth Rate (live births per 1000),26.6
+1269,Kuwait,Asia,1970,Birth Rate (live births per 1000),44.9
+1270,Kuwait,Asia,1980,Birth Rate (live births per 1000),31.6
+1271,Kuwait,Asia,1990,Birth Rate (live births per 1000),25.3
+1272,Kuwait,Asia,2000,Birth Rate (live births per 1000),22.5
+1273,Latvia,Europe,1990,Birth Rate (live births per 1000),8.7
+1274,Latvia,Europe,2000,Birth Rate (live births per 1000),9.3
+1275,Lebanon,Asia,1970,Birth Rate (live births per 1000),34.4
+1276,Lebanon,Asia,1990,Birth Rate (live births per 1000),27.0
+1277,Lesotho,Africa,2000,Birth Rate (live births per 1000),25.85
+1278,Lesotho,Africa,1970,Birth Rate (live births per 1000),40.2
+1279,Lesotho,Africa,1990,Birth Rate (live births per 1000),30.0
+1280,Lesotho,Africa,1980,Birth Rate (live births per 1000),37.0
+1281,Liberia,Africa,1980,Birth Rate (live births per 1000),27.3
+1282,Liberia,Africa,2000,Birth Rate (live births per 1000),38.95
+1283,Libya,Africa,1970,Birth Rate (live births per 1000),41.2
+1284,Libya,Africa,1980,Birth Rate (live births per 1000),40.2
+1285,Libya,Africa,1990,Birth Rate (live births per 1000),18.6
+1286,Libya,Africa,2000,Birth Rate (live births per 1000),19.65
+1287,Liechtenstein,Europe,1990,Birth Rate (live births per 1000),13.7
+1288,Liechtenstein,Europe,2000,Birth Rate (live births per 1000),11.0
+1289,Lithuania,Europe,1990,Birth Rate (live births per 1000),11.1
+1290,Lithuania,Europe,2000,Birth Rate (live births per 1000),8.9
+1291,Luxembourg,Europe,1970,Birth Rate (live births per 1000),13.0
+1292,Luxembourg,Europe,1980,Birth Rate (live births per 1000),11.2
+1293,Luxembourg,Europe,1990,Birth Rate (live births per 1000),13.3
+1294,Luxembourg,Europe,2000,Birth Rate (live births per 1000),11.5
+1295,Madagascar,Africa,1970,Birth Rate (live births per 1000),45.0
+1296,Madagascar,Africa,1990,Birth Rate (live births per 1000),43.150000000000006
+1297,Madagascar,Africa,2000,Birth Rate (live births per 1000),34.349999999999994
+1298,Malawi,Africa,1990,Birth Rate (live births per 1000),37.9
+1299,Malawi,Africa,1970,Birth Rate (live births per 1000),48.3
+1300,Malawi,Africa,1980,Birth Rate (live births per 1000),41.2
+1301,Malawi,Africa,2000,Birth Rate (live births per 1000),41.55
+1302,Malaysia,Asia,1970,Birth Rate (live births per 1000),36.8
+1303,Malaysia,Asia,1980,Birth Rate (live births per 1000),31.6
+1304,Malaysia,Asia,1990,Birth Rate (live births per 1000),26.0
+1305,Malaysia,Asia,2000,Birth Rate (live births per 1000),17.85
+1306,Maldives,Asia,1970,Birth Rate (live births per 1000),38.9
+1307,Maldives,Asia,1980,Birth Rate (live births per 1000),48.0
+1308,Maldives,Asia,1990,Birth Rate (live births per 1000),27.5
+1309,Maldives,Asia,2000,Birth Rate (live births per 1000),18.8
+1310,Mali,Africa,1980,Birth Rate (live births per 1000),46.6
+1311,Mali,Africa,1990,Birth Rate (live births per 1000),45.5
+1312,Malta,Europe,1970,Birth Rate (live births per 1000),16.3
+1313,Malta,Europe,1980,Birth Rate (live births per 1000),16.0
+1314,Malta,Europe,1990,Birth Rate (live births per 1000),15.1
+1315,Malta,Europe,2000,Birth Rate (live births per 1000),9.6
+1316,Marshall Islands,Oceania,1970,Birth Rate (live births per 1000),46.1
+1317,Marshall Islands,Oceania,1980,Birth Rate (live births per 1000),39.7
+1318,Marshall Islands,Oceania,1990,Birth Rate (live births per 1000),28.9
+1319,Marshall Islands,Oceania,2000,Birth Rate (live births per 1000),30.35
+1320,Mauritania,Africa,1990,Birth Rate (live births per 1000),31.3
+1321,Mauritania,Africa,2000,Birth Rate (live births per 1000),29.1
+1322,Mauritius,Africa,1970,Birth Rate (live births per 1000),26.8
+1323,Mauritius,Africa,1980,Birth Rate (live births per 1000),18.7
+1324,Mauritius,Africa,1990,Birth Rate (live births per 1000),18.4
+1325,Mauritius,Africa,2000,Birth Rate (live births per 1000),15.1
+1326,Mexico,North America,1970,Birth Rate (live births per 1000),41.1
+1327,Mexico,North America,1980,Birth Rate (live births per 1000),34.9
+1328,Mexico,North America,1990,Birth Rate (live births per 1000),29.8
+1329,Mexico,North America,2000,Birth Rate (live births per 1000),22.55
+1330,Mongolia,Asia,1970,Birth Rate (live births per 1000),41.3
+1331,Mongolia,Asia,1980,Birth Rate (live births per 1000),38.0
+1332,Mongolia,Asia,1990,Birth Rate (live births per 1000),24.4
+1333,Mongolia,Asia,2000,Birth Rate (live births per 1000),19.0
+1334,Montenegro,Europe,2000,Birth Rate (live births per 1000),11.8
+1335,Montenegro,Europe,1990,Birth Rate (live births per 1000),14.9
+1336,Morocco,Africa,1970,Birth Rate (live births per 1000),48.0
+1337,Morocco,Africa,1980,Birth Rate (live births per 1000),31.6
+1338,Morocco,Africa,1990,Birth Rate (live births per 1000),23.6
+1339,Morocco,Africa,2000,Birth Rate (live births per 1000),19.5
+1340,Mozambique,Africa,1970,Birth Rate (live births per 1000),48.0
+1341,Mozambique,Africa,1980,Birth Rate (live births per 1000),47.0
+1342,Mozambique,Africa,1990,Birth Rate (live births per 1000),39.2
+1343,Mozambique,Africa,2000,Birth Rate (live births per 1000),40.2
+1344,Myanmar,Asia,1980,Birth Rate (live births per 1000),34.8
+1345,Myanmar,Asia,1990,Birth Rate (live births per 1000),22.4
+1346,Myanmar,Asia,2000,Birth Rate (live births per 1000),18.55
+1347,Namibia,Africa,2000,Birth Rate (live births per 1000),26.25
+1348,Namibia,Africa,1990,Birth Rate (live births per 1000),34.6
+1349,Nauru,Oceania,2000,Birth Rate (live births per 1000),26.3
+1350,Nauru,Oceania,1990,Birth Rate (live births per 1000),23.3
+1351,Nauru,Oceania,1970,Birth Rate (live births per 1000),22.3
+1352,Nepal,Asia,1970,Birth Rate (live births per 1000),42.0
+1353,Nepal,Asia,1980,Birth Rate (live births per 1000),39.0
+1354,Nepal,Asia,1990,Birth Rate (live births per 1000),37.2
+1355,Nepal,Asia,2000,Birth Rate (live births per 1000),26.35
+1356,Netherlands,Europe,1970,Birth Rate (live births per 1000),18.3
+1357,Netherlands,Europe,1980,Birth Rate (live births per 1000),12.3
+1358,Netherlands,Europe,1990,Birth Rate (live births per 1000),12.3
+1359,Netherlands,Europe,2000,Birth Rate (live births per 1000),11.5
+1360,New Zealand,Oceania,1970,Birth Rate (live births per 1000),22.1
+1361,New Zealand,Oceania,1980,Birth Rate (live births per 1000),16.0
+1362,New Zealand,Oceania,1990,Birth Rate (live births per 1000),15.7
+1363,New Zealand,Oceania,2000,Birth Rate (live births per 1000),14.0
+1364,Nicaragua,North America,1970,Birth Rate (live births per 1000),50.0
+1365,Nicaragua,North America,1980,Birth Rate (live births per 1000),45.0
+1366,Nicaragua,North America,1990,Birth Rate (live births per 1000),29.4
+1367,Nicaragua,North America,2000,Birth Rate (live births per 1000),24.85
+1368,Niger,Africa,1980,Birth Rate (live births per 1000),52.0
+1369,Niger,Africa,1990,Birth Rate (live births per 1000),51.7
+1370,Niger,Africa,2000,Birth Rate (live births per 1000),47.099999999999994
+1371,Nigeria,Africa,1980,Birth Rate (live births per 1000),42.05
+1372,Nigeria,Africa,2000,Birth Rate (live births per 1000),41.150000000000006
+1373,Norway,Europe,1970,Birth Rate (live births per 1000),16.7
+1374,Norway,Europe,1980,Birth Rate (live births per 1000),12.3
+1375,Norway,Europe,1990,Birth Rate (live births per 1000),13.8
+1376,Norway,Europe,2000,Birth Rate (live births per 1000),12.3
+1377,Oman,Asia,1980,Birth Rate (live births per 1000),49.0
+1378,Oman,Asia,1990,Birth Rate (live births per 1000),34.0
+1379,Oman,Asia,2000,Birth Rate (live births per 1000),21.85
+1380,Pakistan,Asia,1970,Birth Rate (live births per 1000),42.2
+1381,Pakistan,Asia,1980,Birth Rate (live births per 1000),43.3
+1382,Pakistan,Asia,1990,Birth Rate (live births per 1000),36.6
+1383,Pakistan,Asia,2000,Birth Rate (live births per 1000),28.4
+1384,Palau,Oceania,2000,Birth Rate (live births per 1000),13.0
+1385,Palau,Oceania,1990,Birth Rate (live births per 1000),23.3
+1386,Panama,North America,1970,Birth Rate (live births per 1000),35.3
+1387,Panama,North America,1980,Birth Rate (live births per 1000),26.6
+1388,Panama,North America,1990,Birth Rate (live births per 1000),23.1
+1389,Panama,North America,2000,Birth Rate (live births per 1000),19.7
+1390,Papua New Guinea,Oceania,1970,Birth Rate (live births per 1000),47.5
+1391,Papua New Guinea,Oceania,1990,Birth Rate (live births per 1000),33.9
+1392,Papua New Guinea,Oceania,2000,Birth Rate (live births per 1000),34.25
+1393,Paraguay,South America,1970,Birth Rate (live births per 1000),35.3
+1394,Paraguay,South America,1980,Birth Rate (live births per 1000),32.8
+1395,Paraguay,South America,1990,Birth Rate (live births per 1000),34.3
+1396,Paraguay,South America,2000,Birth Rate (live births per 1000),27.2
+1397,Peru,South America,1970,Birth Rate (live births per 1000),42.4
+1398,Peru,South America,1980,Birth Rate (live births per 1000),34.8
+1399,Peru,South America,1990,Birth Rate (live births per 1000),27.5
+1400,Peru,South America,2000,Birth Rate (live births per 1000),18.950000000000003
+1401,Philippines,Asia,1970,Birth Rate (live births per 1000),39.0
+1402,Philippines,Asia,1990,Birth Rate (live births per 1000),28.55
+1403,Philippines,Asia,2000,Birth Rate (live births per 1000),24.8
+1404,Poland,Europe,1970,Birth Rate (live births per 1000),16.8
+1405,Poland,Europe,1980,Birth Rate (live births per 1000),18.2
+1406,Poland,Europe,1990,Birth Rate (live births per 1000),11.3
+1407,Poland,Europe,2000,Birth Rate (live births per 1000),9.5
+1408,Portugal,Europe,1970,Birth Rate (live births per 1000),19.9
+1409,Portugal,Europe,1980,Birth Rate (live births per 1000),13.0
+1410,Portugal,Europe,1990,Birth Rate (live births per 1000),10.7
+1411,Portugal,Europe,2000,Birth Rate (live births per 1000),10.4
+1412,Puerto Rico,North America,1970,Birth Rate (live births per 1000),24.8
+1413,Puerto Rico,North America,1980,Birth Rate (live births per 1000),19.0
+1414,Puerto Rico,North America,1990,Birth Rate (live births per 1000),17.2
+1415,Puerto Rico,North America,2000,Birth Rate (live births per 1000),12.3
+1416,Qatar,Asia,1980,Birth Rate (live births per 1000),25.1
+1417,Qatar,Asia,1990,Birth Rate (live births per 1000),20.7
+1418,Qatar,Asia,2000,Birth Rate (live births per 1000),16.8
+1419,Romania,Europe,1980,Birth Rate (live births per 1000),15.8
+1420,Romania,Europe,1970,Birth Rate (live births per 1000),21.1
+1421,Romania,Europe,1990,Birth Rate (live births per 1000),10.4
+1422,Romania,Europe,2000,Birth Rate (live births per 1000),10.2
+1423,Russian Federation,Europe,2000,Birth Rate (live births per 1000),10.2
+1424,Russian Federation,Europe,1990,Birth Rate (live births per 1000),9.2
+1425,Rwanda,Africa,1970,Birth Rate (live births per 1000),51.0
+1426,Rwanda,Africa,1990,Birth Rate (live births per 1000),40.1
+1427,Rwanda,Africa,2000,Birth Rate (live births per 1000),36.8
+1428,Samoa,Oceania,1970,Birth Rate (live births per 1000),37.7
+1429,Samoa,Oceania,1980,Birth Rate (live births per 1000),28.6
+1430,Samoa,Oceania,1990,Birth Rate (live births per 1000),25.9
+1431,Samoa,Oceania,2000,Birth Rate (live births per 1000),27.950000000000003
+1432,Sao Tome and Principe,Africa,1980,Birth Rate (live births per 1000),41.5
+1433,Sao Tome and Principe,Africa,1990,Birth Rate (live births per 1000),34.9
+1434,Sao Tome and Principe,Africa,2000,Birth Rate (live births per 1000),34.15
+1435,Saudi Arabia,Asia,1990,Birth Rate (live births per 1000),34.1
+1436,Saudi Arabia,Asia,2000,Birth Rate (live births per 1000),17.85
+1437,Senegal,Africa,1970,Birth Rate (live births per 1000),48.9
+1438,Senegal,Africa,1980,Birth Rate (live births per 1000),47.0
+1439,Senegal,Africa,1990,Birth Rate (live births per 1000),39.3
+1440,Senegal,Africa,2000,Birth Rate (live births per 1000),38.2
+1441,Serbia,Europe,1990,Birth Rate (live births per 1000),13.2
+1442,Serbia,Europe,2000,Birth Rate (live births per 1000),9.65
+1443,Seychelles,Africa,1980,Birth Rate (live births per 1000),26.5
+1444,Seychelles,Africa,1990,Birth Rate (live births per 1000),21.0
+1445,Seychelles,Africa,2000,Birth Rate (live births per 1000),18.5
+1446,Sierra Leone,Africa,1970,Birth Rate (live births per 1000),50.2
+1447,Sierra Leone,Africa,1980,Birth Rate (live births per 1000),49.8
+1448,Sierra Leone,Africa,1990,Birth Rate (live births per 1000),45.4
+1449,Sierra Leone,Africa,2000,Birth Rate (live births per 1000),39.85
+1450,Singapore,Asia,1970,Birth Rate (live births per 1000),22.1
+1451,Singapore,Asia,1980,Birth Rate (live births per 1000),15.5
+1452,Singapore,Asia,1990,Birth Rate (live births per 1000),13.8
+1453,Singapore,Asia,2000,Birth Rate (live births per 1000),8.8
+1454,Slovenia,Europe,1990,Birth Rate (live births per 1000),9.5
+1455,Slovenia,Europe,2000,Birth Rate (live births per 1000),9.1
+1456,Solomon Islands,Oceania,1980,Birth Rate (live births per 1000),36.2
+1457,Solomon Islands,Oceania,1990,Birth Rate (live births per 1000),31.8
+1458,Somalia,Africa,1970,Birth Rate (live births per 1000),43.2
+1459,Somalia,Africa,1980,Birth Rate (live births per 1000),49.0
+1460,Somalia,Africa,2000,Birth Rate (live births per 1000),47.0
+1461,South Africa,Africa,2000,Birth Rate (live births per 1000),19.6
+1462,South Africa,Africa,1970,Birth Rate (live births per 1000),39.6
+1463,South Africa,Africa,1990,Birth Rate (live births per 1000),22.1
+1464,Spain,Europe,1970,Birth Rate (live births per 1000),19.4
+1465,Spain,Europe,1980,Birth Rate (live births per 1000),11.9
+1466,Spain,Europe,1990,Birth Rate (live births per 1000),9.2
+1467,Spain,Europe,2000,Birth Rate (live births per 1000),10.7
+1468,Sri Lanka,Asia,1970,Birth Rate (live births per 1000),29.3
+1469,Sri Lanka,Asia,1980,Birth Rate (live births per 1000),24.0
+1470,Sri Lanka,Asia,2000,Birth Rate (live births per 1000),18.9
+1471,Sri Lanka,Asia,1990,Birth Rate (live births per 1000),18.8
+1472,Suriname,South America,1970,Birth Rate (live births per 1000),36.2
+1473,Suriname,South America,1980,Birth Rate (live births per 1000),30.8
+1474,Suriname,South America,1990,Birth Rate (live births per 1000),21.3
+1475,Suriname,South America,2000,Birth Rate (live births per 1000),18.049999999999997
+1476,Sweden,Europe,1970,Birth Rate (live births per 1000),13.7
+1477,Sweden,Europe,1980,Birth Rate (live births per 1000),11.8
+1478,Sweden,Europe,1990,Birth Rate (live births per 1000),11.7
+1479,Sweden,Europe,2000,Birth Rate (live births per 1000),11.2
+1480,Switzerland,Europe,1970,Birth Rate (live births per 1000),16.0
+1481,Switzerland,Europe,1980,Birth Rate (live births per 1000),11.5
+1482,Switzerland,Europe,1990,Birth Rate (live births per 1000),11.7
+1483,Switzerland,Europe,2000,Birth Rate (live births per 1000),9.8
+1484,Tajikistan,Asia,1990,Birth Rate (live births per 1000),28.9
+1485,Tajikistan,Asia,2000,Birth Rate (live births per 1000),26.549999999999997
+1486,Thailand,Asia,1970,Birth Rate (live births per 1000),32.9
+1487,Thailand,Asia,1980,Birth Rate (live births per 1000),23.9
+1488,Thailand,Asia,1990,Birth Rate (live births per 1000),17.9
+1489,Thailand,Asia,2000,Birth Rate (live births per 1000),11.55
+1490,Timor-Leste,Asia,2000,Birth Rate (live births per 1000),37.8
+1491,Togo,Africa,1970,Birth Rate (live births per 1000),45.0
+1492,Togo,Africa,1980,Birth Rate (live births per 1000),44.6
+1493,Togo,Africa,1990,Birth Rate (live births per 1000),34.9
+1494,Tonga,Oceania,1970,Birth Rate (live births per 1000),31.4
+1495,Tonga,Oceania,1980,Birth Rate (live births per 1000),29.9
+1496,Tonga,Oceania,1990,Birth Rate (live births per 1000),30.4
+1497,Tonga,Oceania,2000,Birth Rate (live births per 1000),27.6
+1498,Trinidad and Tobago,North America,1970,Birth Rate (live births per 1000),24.4
+1499,Trinidad and Tobago,North America,1980,Birth Rate (live births per 1000),28.6
+1500,Trinidad and Tobago,North America,1990,Birth Rate (live births per 1000),15.3
+1501,Trinidad and Tobago,North America,2000,Birth Rate (live births per 1000),13.85
+1502,Tunisia,Africa,1970,Birth Rate (live births per 1000),36.3
+1503,Tunisia,Africa,1980,Birth Rate (live births per 1000),31.0
+1504,Tunisia,Africa,1990,Birth Rate (live births per 1000),20.9
+1505,Tunisia,Africa,2000,Birth Rate (live births per 1000),17.6
+1506,Turkmenistan,Asia,1990,Birth Rate (live births per 1000),28.9
+1507,Turkmenistan,Asia,2000,Birth Rate (live births per 1000),24.4
+1508,Tuvalu,Oceania,1970,Birth Rate (live births per 1000),23.7
+1509,Tuvalu,Oceania,1990,Birth Rate (live births per 1000),24.6
+1510,Uganda,Africa,1980,Birth Rate (live births per 1000),50.0
+1511,Uganda,Africa,1990,Birth Rate (live births per 1000),48.1
+1512,Uganda,Africa,2000,Birth Rate (live births per 1000),44.8
+1513,Ukraine,Europe,2000,Birth Rate (live births per 1000),9.0
+1514,United Arab Emirates,Asia,1980,Birth Rate (live births per 1000),34.5
+1515,United Arab Emirates,Asia,1990,Birth Rate (live births per 1000),26.049999999999997
+1516,United Arab Emirates,Asia,2000,Birth Rate (live births per 1000),14.7
+1517,Uruguay,South America,1970,Birth Rate (live births per 1000),19.5
+1518,Uruguay,South America,1980,Birth Rate (live births per 1000),17.9
+1519,Uruguay,South America,1990,Birth Rate (live births per 1000),17.6
+1520,Uruguay,South America,2000,Birth Rate (live births per 1000),15.15
+1521,Uzbekistan,Asia,1990,Birth Rate (live births per 1000),29.9
+1522,Uzbekistan,Asia,2000,Birth Rate (live births per 1000),20.6
+1523,Vanuatu,Oceania,1970,Birth Rate (live births per 1000),45.0
+1524,Vanuatu,Oceania,1980,Birth Rate (live births per 1000),37.0
+1525,Zambia,Africa,1990,Birth Rate (live births per 1000),45.65
+1526,Zambia,Africa,2000,Birth Rate (live births per 1000),43.45
+1527,Zimbabwe,Africa,2000,Birth Rate (live births per 1000),32.55
+1528,Zimbabwe,Africa,1990,Birth Rate (live births per 1000),31.8
+1529,Zimbabwe,Africa,1980,Birth Rate (live births per 1000),39.5
+1530,Afghanistan,Asia,1970,Fertility (live births per woman),8.21
+1531,Afghanistan,Asia,2000,Fertility (live births per woman),7.52
+1532,Albania,Europe,1970,Fertility (live births per woman),5.16
+1533,Albania,Europe,1980,Fertility (live births per woman),3.33
+1534,Albania,Europe,1990,Fertility (live births per woman),2.86
+1535,Albania,Europe,2000,Fertility (live births per woman),1.61
+1536,Algeria,Africa,1970,Fertility (live births per woman),7.86
+1537,Algeria,Africa,1980,Fertility (live births per woman),5.35
+1538,Algeria,Africa,1990,Fertility (live births per woman),4.38
+1539,Algeria,Africa,2000,Fertility (live births per woman),2.38
+1540,Angola,Africa,2000,Fertility (live births per woman),5.79
+1541,Antigua and Barbuda,North America,1970,Fertility (live births per woman),2.68
+1542,Antigua and Barbuda,North America,1980,Fertility (live births per woman),1.86
+1543,Antigua and Barbuda,North America,1990,Fertility (live births per woman),2.2
+1544,Antigua and Barbuda,North America,2000,Fertility (live births per woman),2.36
+1545,Argentina,South America,1970,Fertility (live births per woman),3.07
+1546,Argentina,South America,1980,Fertility (live births per woman),2.96
+1547,Argentina,South America,1990,Fertility (live births per woman),2.56
+1548,Argentina,South America,2000,Fertility (live births per woman),2.38
+1549,Armenia,Europe,1990,Fertility (live births per woman),1.63
+1550,Armenia,Europe,2000,Fertility (live births per woman),1.37
+1551,Aruba,North America,1970,Fertility (live births per woman),2.53
+1552,Aruba,North America,1980,Fertility (live births per woman),1.94
+1553,Aruba,North America,1990,Fertility (live births per woman),2.08
+1554,Aruba,North America,2000,Fertility (live births per woman),1.74
+1555,Australia,Oceania,1970,Fertility (live births per woman),2.86
+1556,Australia,Oceania,1980,Fertility (live births per woman),1.89
+1557,Australia,Oceania,1990,Fertility (live births per woman),1.82
+1558,Australia,Oceania,2000,Fertility (live births per woman),1.79
+1559,Austria,Europe,1970,Fertility (live births per woman),2.31
+1560,Austria,Europe,1980,Fertility (live births per woman),1.48
+1561,Austria,Europe,1990,Fertility (live births per woman),1.41
+1562,Austria,Europe,2000,Fertility (live births per woman),1.41
+1563,Azerbaijan,Europe,1990,Fertility (live births per woman),2.19
+1564,Azerbaijan,Europe,2000,Fertility (live births per woman),2.33
+1565,Bahrain,Asia,1970,Fertility (live births per woman),6.7
+1566,Bahrain,Asia,1980,Fertility (live births per woman),4.53
+1567,Bahrain,Asia,1990,Fertility (live births per woman),3.01
+1568,Bahrain,Asia,2000,Fertility (live births per woman),2.61
+1569,Bangladesh,Asia,1970,Fertility (live births per woman),6.08
+1570,Bangladesh,Asia,1980,Fertility (live births per woman),4.61
+1571,Bangladesh,Asia,1990,Fertility (live births per woman),3.26
+1572,Bangladesh,Asia,2000,Fertility (live births per woman),3.02
+1573,Barbados,North America,1970,Fertility (live births per woman),2.97
+1574,Barbados,North America,1980,Fertility (live births per woman),1.86
+1575,Barbados,North America,1990,Fertility (live births per woman),1.74
+1576,Barbados,North America,2000,Fertility (live births per woman),1.9
+1577,Belarus,Europe,2000,Fertility (live births per woman),1.2
+1578,Belarus,Europe,1990,Fertility (live births per woman),1.38
+1579,Belgium,Europe,1970,Fertility (live births per woman),2.24
+1580,Belgium,Europe,1980,Fertility (live births per woman),1.55
+1581,Belgium,Europe,1990,Fertility (live births per woman),1.56
+1582,Belgium,Europe,2000,Fertility (live births per woman),1.75
+1583,Belize,North America,1970,Fertility (live births per woman),6.25
+1584,Belize,North America,1990,Fertility (live births per woman),4.0
+1585,Belize,North America,1980,Fertility (live births per woman),5.02
+1586,Benin,Africa,1980,Fertility (live births per woman),7.08
+1587,Benin,Africa,1990,Fertility (live births per woman),5.96
+1588,Benin,Africa,2000,Fertility (live births per woman),5.74
+1589,Bermuda,North America,1970,Fertility (live births per woman),1.86
+1590,Bermuda,North America,1980,Fertility (live births per woman),1.85
+1591,Bermuda,North America,1990,Fertility (live births per woman),1.74
+1592,Bermuda,North America,2000,Fertility (live births per woman),1.81
+1593,Bhutan,Asia,1990,Fertility (live births per woman),5.59
+1594,Bhutan,Asia,2000,Fertility (live births per woman),4.69
+1595,Bosnia and Herzegovina,Europe,1990,Fertility (live births per woman),1.71
+1596,Bosnia and Herzegovina,Europe,2000,Fertility (live births per woman),1.2
+1597,Botswana,Africa,2000,Fertility (live births per woman),3.27
+1598,Botswana,Africa,1970,Fertility (live births per woman),6.5
+1599,Botswana,Africa,1980,Fertility (live births per woman),4.54
+1600,Brazil,South America,1970,Fertility (live births per woman),5.15
+1601,Brazil,South America,1980,Fertility (live births per woman),3.37
+1602,Brazil,South America,1990,Fertility (live births per woman),2.54
+1603,Brazil,South America,2000,Fertility (live births per woman),2.01
+1604,Bulgaria,Europe,1970,Fertility (live births per woman),2.17
+1605,Bulgaria,Europe,1990,Fertility (live births per woman),1.23
+1606,Bulgaria,Europe,1980,Fertility (live births per woman),1.97
+1607,Bulgaria,Europe,2000,Fertility (live births per woman),1.31
+1608,Burkina Faso,Africa,1980,Fertility (live births per woman),7.18
+1609,Burkina Faso,Africa,1990,Fertility (live births per woman),6.44
+1610,Burkina Faso,Africa,2000,Fertility (live births per woman),5.88
+1611,Burundi,Africa,1970,Fertility (live births per woman),6.13
+1612,Burundi,Africa,1990,Fertility (live births per woman),6.69
+1613,Burundi,Africa,2000,Fertility (live births per woman),5.6
+1614,Cambodia,Asia,1990,Fertility (live births per woman),5.64
+1615,Cambodia,Asia,2000,Fertility (live births per woman),3.4
+1616,Cameroon,Africa,1990,Fertility (live births per woman),4.8
+1617,Cameroon,Africa,1980,Fertility (live births per woman),5.82
+1618,Cameroon,Africa,2000,Fertility (live births per woman),4.97
+1619,Canada,North America,1970,Fertility (live births per woman),2.26
+1620,Canada,North America,1980,Fertility (live births per woman),1.65
+1621,Canada,North America,1990,Fertility (live births per woman),1.64
+1622,Canada,North America,2000,Fertility (live births per woman),1.55
+1623,Central African Republic,Africa,1970,Fertility (live births per woman),5.84
+1624,Central African Republic,Africa,1990,Fertility (live births per woman),5.08
+1625,Central African Republic,Africa,1980,Fertility (live births per woman),6.07
+1626,Chad,Africa,1990,Fertility (live births per woman),6.37
+1627,Chad,Africa,2000,Fertility (live births per woman),6.34
+1628,Chile,South America,1970,Fertility (live births per woman),3.57
+1629,Chile,South America,1980,Fertility (live births per woman),2.33
+1630,Chile,South America,1990,Fertility (live births per woman),2.23
+1631,Chile,South America,2000,Fertility (live births per woman),1.82
+1632,Colombia,South America,1970,Fertility (live births per woman),4.54
+1633,Colombia,South America,1980,Fertility (live births per woman),3.2
+1634,Colombia,South America,1990,Fertility (live births per woman),2.96
+1635,Colombia,South America,2000,Fertility (live births per woman),2.39
+1636,Comoros,Africa,1980,Fertility (live births per woman),5.55
+1637,Comoros,Africa,1990,Fertility (live births per woman),4.66
+1638,Costa Rica,North America,1970,Fertility (live births per woman),4.92
+1639,Costa Rica,North America,1980,Fertility (live births per woman),3.52
+1640,Costa Rica,North America,1990,Fertility (live births per woman),2.71
+1641,Costa Rica,North America,2000,Fertility (live births per woman),2.0
+1642,Croatia,Europe,1990,Fertility (live births per woman),1.48
+1643,Croatia,Europe,2000,Fertility (live births per woman),1.41
+1644,Cuba,North America,1970,Fertility (live births per woman),3.69
+1645,Cuba,North America,1980,Fertility (live births per woman),1.89
+1646,Cuba,North America,1990,Fertility (live births per woman),1.48
+1647,Cuba,North America,2000,Fertility (live births per woman),1.36
+1648,Cyprus,Europe,1970,Fertility (live births per woman),2.74
+1649,Cyprus,Europe,1980,Fertility (live births per woman),2.38
+1650,Cyprus,Europe,1990,Fertility (live births per woman),2.03
+1651,Cyprus,Europe,2000,Fertility (live births per woman),1.42
+1652,Denmark,Europe,1970,Fertility (live births per woman),1.96
+1653,Denmark,Europe,1980,Fertility (live births per woman),1.44
+1654,Denmark,Europe,1990,Fertility (live births per woman),1.82
+1655,Denmark,Europe,2000,Fertility (live births per woman),1.8
+1656,Djibouti,Africa,1990,Fertility (live births per woman),5.08
+1657,Dominica,North America,1970,Fertility (live births per woman),5.48
+1658,Dominica,North America,1990,Fertility (live births per woman),2.67
+1659,Dominica,North America,2000,Fertility (live births per woman),2.1
+1660,Dominica,North America,1980,Fertility (live births per woman),2.94
+1661,Dominican Republic,North America,1970,Fertility (live births per woman),6.2
+1662,Dominican Republic,North America,1990,Fertility (live births per woman),3.16
+1663,Dominican Republic,North America,2000,Fertility (live births per woman),2.99
+1664,Ecuador,South America,1970,Fertility (live births per woman),5.9
+1665,Ecuador,South America,1980,Fertility (live births per woman),4.24
+1666,Ecuador,South America,1990,Fertility (live births per woman),3.29
+1667,Ecuador,South America,2000,Fertility (live births per woman),2.84
+1668,El Salvador,North America,1970,Fertility (live births per woman),6.13
+1669,El Salvador,North America,1980,Fertility (live births per woman),4.22
+1670,El Salvador,North America,1990,Fertility (live births per woman),3.59
+1671,El Salvador,North America,2000,Fertility (live births per woman),2.81
+1672,Equatorial Guinea,Africa,1980,Fertility (live births per woman),5.96
+1673,Equatorial Guinea,Africa,1990,Fertility (live births per woman),5.51
+1674,Equatorial Guinea,Africa,2000,Fertility (live births per woman),5.92
+1675,Eritrea,Africa,1990,Fertility (live births per woman),6.1
+1676,Estonia,Europe,1990,Fertility (live births per woman),1.32
+1677,Estonia,Europe,2000,Fertility (live births per woman),1.5
+1678,Ethiopia,Africa,1990,Fertility (live births per woman),5.52
+1679,Ethiopia,Africa,2000,Fertility (live births per woman),5.41
+1680,Fiji,Oceania,1970,Fertility (live births per woman),4.22
+1681,Fiji,Oceania,1980,Fertility (live births per woman),3.14
+1682,Fiji,Oceania,1990,Fertility (live births per woman),2.95
+1683,Fiji,Oceania,2000,Fertility (live births per woman),2.61
+1684,Finland,Europe,1970,Fertility (live births per woman),1.82
+1685,Finland,Europe,1980,Fertility (live births per woman),1.65
+1686,Finland,Europe,1990,Fertility (live births per woman),1.81
+1687,Finland,Europe,2000,Fertility (live births per woman),1.8
+1688,France,Europe,1970,Fertility (live births per woman),2.47
+1689,France,Europe,1980,Fertility (live births per woman),1.83
+1690,France,Europe,1990,Fertility (live births per woman),1.7
+1691,France,Europe,2000,Fertility (live births per woman),1.91
+1692,Gabon,Africa,1990,Fertility (live births per woman),5.17
+1693,Georgia,Europe,1990,Fertility (live births per woman),1.54
+1694,Georgia,Europe,2000,Fertility (live births per woman),1.39
+1695,Germany,Europe,1970,Fertility (live births per woman),2.02
+1696,Germany,Europe,1980,Fertility (live births per woman),1.39
+1697,Germany,Europe,1990,Fertility (live births per woman),1.25
+1698,Germany,Europe,2000,Fertility (live births per woman),1.33
+1699,Ghana,Africa,1970,Fertility (live births per woman),7.04
+1700,Ghana,Africa,1990,Fertility (live births per woman),4.43
+1701,Ghana,Africa,2000,Fertility (live births per woman),4.44
+1702,Greece,Europe,1970,Fertility (live births per woman),2.43
+1703,Greece,Europe,1980,Fertility (live births per woman),1.68
+1704,Greece,Europe,1990,Fertility (live births per woman),1.32
+1705,Greece,Europe,2000,Fertility (live births per woman),1.34
+1706,Grenada,North America,1970,Fertility (live births per woman),4.64
+1707,Grenada,North America,1980,Fertility (live births per woman),3.54
+1708,Grenada,North America,1990,Fertility (live births per woman),3.0
+1709,Guatemala,North America,1970,Fertility (live births per woman),5.75
+1710,Guatemala,North America,1980,Fertility (live births per woman),5.88
+1711,Guatemala,North America,1990,Fertility (live births per woman),4.81
+1712,Guatemala,North America,2000,Fertility (live births per woman),3.97
+1713,Guinea,Africa,1980,Fertility (live births per woman),5.84
+1714,Guinea,Africa,1990,Fertility (live births per woman),5.96
+1715,Guinea,Africa,2000,Fertility (live births per woman),5.7
+1716,Guyana,South America,1970,Fertility (live births per woman),4.88
+1717,Guyana,South America,1980,Fertility (live births per woman),2.63
+1718,Guyana,South America,1990,Fertility (live births per woman),2.36
+1719,Guyana,South America,2000,Fertility (live births per woman),3.71
+1720,Haiti,North America,1970,Fertility (live births per woman),5.7
+1721,Haiti,North America,1980,Fertility (live births per woman),6.4
+1722,Haiti,North America,1990,Fertility (live births per woman),4.78
+1723,Haiti,North America,2000,Fertility (live births per woman),3.53
+1724,Honduras,North America,1970,Fertility (live births per woman),7.5
+1725,Honduras,North America,1980,Fertility (live births per woman),5.33
+1726,Honduras,North America,1990,Fertility (live births per woman),4.95
+1727,Hungary,Europe,1970,Fertility (live births per woman),1.98
+1728,Hungary,Europe,1980,Fertility (live births per woman),1.83
+1729,Hungary,Europe,1990,Fertility (live births per woman),1.57
+1730,Hungary,Europe,2000,Fertility (live births per woman),1.22
+1731,Iceland,Europe,1970,Fertility (live births per woman),2.79
+1732,Iceland,Europe,1980,Fertility (live births per woman),1.95
+1733,Iceland,Europe,1990,Fertility (live births per woman),2.08
+1734,Iceland,Europe,2000,Fertility (live births per woman),2.04
+1735,India,Asia,1970,Fertility (live births per woman),5.35
+1736,India,Asia,1980,Fertility (live births per woman),4.27
+1737,India,Asia,1990,Fertility (live births per woman),3.33
+1738,India,Asia,2000,Fertility (live births per woman),2.88
+1739,Indonesia,Asia,1970,Fertility (live births per woman),4.78
+1740,Indonesia,Asia,1980,Fertility (live births per woman),3.08
+1741,Indonesia,Asia,1990,Fertility (live births per woman),2.79
+1742,Indonesia,Asia,2000,Fertility (live births per woman),2.56
+1743,Iraq,Asia,1970,Fertility (live births per woman),7.13
+1744,Iraq,Asia,1990,Fertility (live births per woman),4.64
+1745,Iraq,Asia,2000,Fertility (live births per woman),4.02
+1746,Ireland,Europe,1970,Fertility (live births per woman),3.85
+1747,Ireland,Europe,1980,Fertility (live births per woman),2.49
+1748,Ireland,Europe,1990,Fertility (live births per woman),1.88
+1749,Ireland,Europe,2000,Fertility (live births per woman),1.88
+1750,Israel,Asia,1970,Fertility (live births per woman),3.91
+1751,Israel,Asia,1980,Fertility (live births per woman),3.12
+1752,Israel,Asia,1990,Fertility (live births per woman),2.89
+1753,Israel,Asia,2000,Fertility (live births per woman),2.83
+1754,Italy,Europe,1970,Fertility (live births per woman),2.41
+1755,Italy,Europe,1980,Fertility (live births per woman),1.41
+1756,Italy,Europe,1990,Fertility (live births per woman),1.19
+1757,Italy,Europe,2000,Fertility (live births per woman),1.3
+1758,Jamaica,North America,1970,Fertility (live births per woman),5.54
+1759,Jamaica,North America,2000,Fertility (live births per woman),1.93
+1760,Jamaica,North America,1980,Fertility (live births per woman),2.95
+1761,Jamaica,North America,1990,Fertility (live births per woman),2.67
+1762,Japan,Asia,1970,Fertility (live births per woman),2.1
+1763,Japan,Asia,1980,Fertility (live births per woman),1.73
+1764,Japan,Asia,1990,Fertility (live births per woman),1.39
+1765,Japan,Asia,2000,Fertility (live births per woman),1.22
+1766,Jordan,Asia,1970,Fertility (live births per woman),7.63
+1767,Jordan,Asia,1980,Fertility (live births per woman),5.57
+1768,Jordan,Asia,1990,Fertility (live births per woman),4.35
+1769,Jordan,Asia,2000,Fertility (live births per woman),3.59
+1770,Kazakhstan,Asia,1990,Fertility (live births per woman),2.1
+1771,Kazakhstan,Asia,2000,Fertility (live births per woman),2.21
+1772,Kenya,Africa,1990,Fertility (live births per woman),4.7
+1773,Kenya,Africa,2000,Fertility (live births per woman),4.88
+1774,Kenya,Africa,1980,Fertility (live births per woman),6.66
+1775,Kiribati,Oceania,1970,Fertility (live births per woman),4.34
+1776,Kiribati,Oceania,1980,Fertility (live births per woman),4.77
+1777,Kiribati,Oceania,1990,Fertility (live births per woman),4.53
+1778,Kiribati,Oceania,2000,Fertility (live births per woman),3.89
+1779,Kuwait,Asia,1970,Fertility (live births per woman),6.78
+1780,Kuwait,Asia,1980,Fertility (live births per woman),4.31
+1781,Kuwait,Asia,1990,Fertility (live births per woman),3.13
+1782,Kuwait,Asia,2000,Fertility (live births per woman),2.76
+1783,Latvia,Europe,1990,Fertility (live births per woman),1.25
+1784,Latvia,Europe,2000,Fertility (live births per woman),1.31
+1785,Lebanon,Asia,1970,Fertility (live births per woman),4.57
+1786,Lebanon,Asia,1990,Fertility (live births per woman),2.91
+1787,Lesotho,Africa,2000,Fertility (live births per woman),3.54
+1788,Lesotho,Africa,1970,Fertility (live births per woman),5.62
+1789,Lesotho,Africa,1990,Fertility (live births per woman),4.77
+1790,Lesotho,Africa,1980,Fertility (live births per woman),5.49
+1791,Liberia,Africa,1980,Fertility (live births per woman),6.66
+1792,Liberia,Africa,2000,Fertility (live births per woman),5.2
+1793,Libya,Africa,1970,Fertility (live births per woman),7.24
+1794,Libya,Africa,1980,Fertility (live births per woman),6.32
+1795,Libya,Africa,1990,Fertility (live births per woman),3.87
+1796,Libya,Africa,2000,Fertility (live births per woman),2.51
+1797,Liechtenstein,Europe,1990,Fertility (live births per woman),1.56
+1798,Liechtenstein,Europe,2000,Fertility (live births per woman),1.5
+1799,Lithuania,Europe,1990,Fertility (live births per woman),1.49
+1800,Lithuania,Europe,2000,Fertility (live births per woman),1.27
+1801,Luxembourg,Europe,1970,Fertility (live births per woman),1.98
+1802,Luxembourg,Europe,1980,Fertility (live births per woman),1.4
+1803,Luxembourg,Europe,1990,Fertility (live births per woman),1.7
+1804,Luxembourg,Europe,2000,Fertility (live births per woman),1.63
+1805,Madagascar,Africa,1970,Fertility (live births per woman),6.62
+1806,Madagascar,Africa,1990,Fertility (live births per woman),5.96
+1807,Madagascar,Africa,2000,Fertility (live births per woman),5.18
+1808,Malawi,Africa,1990,Fertility (live births per woman),6.35
+1809,Malawi,Africa,1970,Fertility (live births per woman),6.65
+1810,Malawi,Africa,1980,Fertility (live births per woman),7.58
+1811,Malawi,Africa,2000,Fertility (live births per woman),6.04
+1812,Malaysia,Asia,1970,Fertility (live births per woman),4.67
+1813,Malaysia,Asia,1980,Fertility (live births per woman),3.73
+1814,Malaysia,Asia,1990,Fertility (live births per woman),3.33
+1815,Malaysia,Asia,2000,Fertility (live births per woman),2.45
+1816,Maldives,Asia,1970,Fertility (live births per woman),6.14
+1817,Maldives,Asia,1980,Fertility (live births per woman),6.42
+1818,Maldives,Asia,1990,Fertility (live births per woman),3.67
+1819,Maldives,Asia,2000,Fertility (live births per woman),2.16
+1820,Mali,Africa,1980,Fertility (live births per woman),7.1
+1821,Mali,Africa,1990,Fertility (live births per woman),6.72
+1822,Malta,Europe,1970,Fertility (live births per woman),2.02
+1823,Malta,Europe,1980,Fertility (live births per woman),1.93
+1824,Malta,Europe,1990,Fertility (live births per woman),1.82
+1825,Malta,Europe,2000,Fertility (live births per woman),1.38
+1826,Marshall Islands,Oceania,1970,Fertility (live births per woman),8.43
+1827,Marshall Islands,Oceania,1980,Fertility (live births per woman),5.34
+1828,Marshall Islands,Oceania,1990,Fertility (live births per woman),3.93
+1829,Marshall Islands,Oceania,2000,Fertility (live births per woman),3.74
+1830,Mauritania,Africa,1990,Fertility (live births per woman),4.49
+1831,Mauritania,Africa,2000,Fertility (live births per woman),4.31
+1832,Mauritius,Africa,1970,Fertility (live births per woman),3.83
+1833,Mauritius,Africa,1980,Fertility (live births per woman),2.28
+1834,Mauritius,Africa,1990,Fertility (live births per woman),2.13
+1835,Mauritius,Africa,2000,Fertility (live births per woman),1.81
+1836,Mexico,North America,1970,Fertility (live births per woman),6.56
+1837,Mexico,North America,1980,Fertility (live births per woman),4.6
+1838,Mexico,North America,1990,Fertility (live births per woman),3.26
+1839,Mexico,North America,2000,Fertility (live births per woman),2.77
+1840,Mongolia,Asia,1970,Fertility (live births per woman),7.49
+1841,Mongolia,Asia,1980,Fertility (live births per woman),5.48
+1842,Mongolia,Asia,1990,Fertility (live births per woman),2.65
+1843,Mongolia,Asia,2000,Fertility (live births per woman),1.96
+1844,Montenegro,Europe,2000,Fertility (live births per woman),1.6
+1845,Montenegro,Europe,1990,Fertility (live births per woman),1.79
+1846,Morocco,Africa,1970,Fertility (live births per woman),6.88
+1847,Morocco,Africa,1980,Fertility (live births per woman),4.64
+1848,Morocco,Africa,1990,Fertility (live births per woman),3.3
+1849,Morocco,Africa,2000,Fertility (live births per woman),2.48
+1850,Mozambique,Africa,1970,Fertility (live births per woman),6.7
+1851,Mozambique,Africa,1980,Fertility (live births per woman),6.49
+1852,Mozambique,Africa,1990,Fertility (live births per woman),5.16
+1853,Mozambique,Africa,2000,Fertility (live births per woman),5.54
+1854,Myanmar,Asia,1980,Fertility (live births per woman),3.52
+1855,Myanmar,Asia,1990,Fertility (live births per woman),2.83
+1856,Myanmar,Asia,2000,Fertility (live births per woman),1.85
+1857,Namibia,Africa,2000,Fertility (live births per woman),3.22
+1858,Namibia,Africa,1990,Fertility (live births per woman),4.18
+1859,Nauru,Oceania,2000,Fertility (live births per woman),3.82
+1860,Nauru,Oceania,1990,Fertility (live births per woman),3.55
+1861,Nauru,Oceania,1970,Fertility (live births per woman),5.18
+1862,Nepal,Asia,1970,Fertility (live births per woman),6.3
+1863,Nepal,Asia,1980,Fertility (live births per woman),5.11
+1864,Nepal,Asia,1990,Fertility (live births per woman),4.64
+1865,Nepal,Asia,2000,Fertility (live births per woman),3.13
+1866,Netherlands,Europe,1970,Fertility (live births per woman),2.58
+1867,Netherlands,Europe,1980,Fertility (live births per woman),1.51
+1868,Netherlands,Europe,1990,Fertility (live births per woman),1.54
+1869,Netherlands,Europe,2000,Fertility (live births per woman),1.68
+1870,New Zealand,Oceania,1970,Fertility (live births per woman),3.15
+1871,New Zealand,Oceania,1980,Fertility (live births per woman),1.92
+1872,New Zealand,Oceania,1990,Fertility (live births per woman),1.98
+1873,New Zealand,Oceania,2000,Fertility (live births per woman),2.0
+1874,Nicaragua,North America,1970,Fertility (live births per woman),6.0
+1875,Nicaragua,North America,1980,Fertility (live births per woman),5.79
+1876,Nicaragua,North America,1990,Fertility (live births per woman),3.62
+1877,Nicaragua,North America,2000,Fertility (live births per woman),3.23
+1878,Niger,Africa,1980,Fertility (live births per woman),7.5
+1879,Niger,Africa,1990,Fertility (live births per woman),7.2
+1880,Niger,Africa,2000,Fertility (live births per woman),7.07
+1881,Nigeria,Africa,1980,Fertility (live births per woman),6.01
+1882,Nigeria,Africa,2000,Fertility (live births per woman),5.66
+1883,Norway,Europe,1970,Fertility (live births per woman),2.5
+1884,Norway,Europe,1980,Fertility (live births per woman),1.68
+1885,Norway,Europe,1990,Fertility (live births per woman),1.88
+1886,Norway,Europe,2000,Fertility (live births per woman),1.84
+1887,Oman,Asia,1980,Fertility (live births per woman),7.51
+1888,Oman,Asia,1990,Fertility (live births per woman),7.39
+1889,Oman,Asia,2000,Fertility (live births per woman),2.59
+1890,Pakistan,Asia,1970,Fertility (live births per woman),6.27
+1891,Pakistan,Asia,1980,Fertility (live births per woman),7.01
+1892,Pakistan,Asia,1990,Fertility (live births per woman),5.48
+1893,Pakistan,Asia,2000,Fertility (live births per woman),3.79
+1894,Palau,Oceania,2000,Fertility (live births per woman),1.91
+1895,Palau,Oceania,1990,Fertility (live births per woman),2.83
+1896,Panama,North America,1970,Fertility (live births per woman),5.07
+1897,Panama,North America,1980,Fertility (live births per woman),3.2
+1898,Panama,North America,1990,Fertility (live births per woman),2.72
+1899,Panama,North America,2000,Fertility (live births per woman),2.39
+1900,Papua New Guinea,Oceania,1970,Fertility (live births per woman),7.11
+1901,Papua New Guinea,Oceania,1990,Fertility (live births per woman),4.84
+1902,Papua New Guinea,Oceania,2000,Fertility (live births per woman),4.55
+1903,Paraguay,South America,1970,Fertility (live births per woman),5.86
+1904,Paraguay,South America,1980,Fertility (live births per woman),4.71
+1905,Paraguay,South America,1990,Fertility (live births per woman),4.34
+1906,Paraguay,South America,2000,Fertility (live births per woman),2.92
+1907,Peru,South America,1970,Fertility (live births per woman),6.18
+1908,Peru,South America,1980,Fertility (live births per woman),4.12
+1909,Peru,South America,1990,Fertility (live births per woman),3.53
+1910,Peru,South America,2000,Fertility (live births per woman),2.5
+1911,Philippines,Asia,1970,Fertility (live births per woman),5.89
+1912,Philippines,Asia,1990,Fertility (live births per woman),3.73
+1913,Philippines,Asia,2000,Fertility (live births per woman),3.54
+1914,Poland,Europe,1970,Fertility (live births per woman),2.23
+1915,Poland,Europe,1980,Fertility (live births per woman),2.33
+1916,Poland,Europe,1990,Fertility (live births per woman),1.61
+1917,Poland,Europe,2000,Fertility (live births per woman),1.15
+1918,Portugal,Europe,1970,Fertility (live births per woman),3.1
+1919,Portugal,Europe,1980,Fertility (live births per woman),1.77
+1920,Portugal,Europe,1990,Fertility (live births per woman),1.41
+1921,Portugal,Europe,2000,Fertility (live births per woman),1.41
+1922,Puerto Rico,North America,1970,Fertility (live births per woman),3.15
+1923,Puerto Rico,North America,1980,Fertility (live births per woman),2.42
+1924,Puerto Rico,North America,1990,Fertility (live births per woman),2.07
+1925,Puerto Rico,North America,2000,Fertility (live births per woman),1.76
+1926,Qatar,Asia,1980,Fertility (live births per woman),4.49
+1927,Qatar,Asia,1990,Fertility (live births per woman),3.24
+1928,Qatar,Asia,2000,Fertility (live births per woman),2.52
+1929,Romania,Europe,1980,Fertility (live births per woman),2.26
+1930,Romania,Europe,1970,Fertility (live births per woman),2.89
+1931,Romania,Europe,1990,Fertility (live births per woman),1.34
+1932,Romania,Europe,2000,Fertility (live births per woman),1.32
+1933,Russian Federation,Europe,2000,Fertility (live births per woman),1.29
+1934,Russian Federation,Europe,1990,Fertility (live births per woman),1.33
+1935,Rwanda,Africa,1970,Fertility (live births per woman),7.66
+1936,Rwanda,Africa,1990,Fertility (live births per woman),6.23
+1937,Rwanda,Africa,2000,Fertility (live births per woman),6.08
+1938,Samoa,Oceania,1970,Fertility (live births per woman),7.0
+1939,Samoa,Oceania,1980,Fertility (live births per woman),6.7
+1940,Samoa,Oceania,1990,Fertility (live births per woman),4.76
+1941,Samoa,Oceania,2000,Fertility (live births per woman),4.37
+1942,Sao Tome and Principe,Africa,1980,Fertility (live births per woman),7.23
+1943,Sao Tome and Principe,Africa,1990,Fertility (live births per woman),5.38
+1944,Sao Tome and Principe,Africa,2000,Fertility (live births per woman),4.66
+1945,Saudi Arabia,Asia,1990,Fertility (live births per woman),6.1
+1946,Saudi Arabia,Asia,2000,Fertility (live births per woman),3.03
+1947,Senegal,Africa,1970,Fertility (live births per woman),6.44
+1948,Senegal,Africa,1980,Fertility (live births per woman),6.38
+1949,Senegal,Africa,1990,Fertility (live births per woman),5.66
+1950,Senegal,Africa,2000,Fertility (live births per woman),5.26
+1951,Serbia,Europe,1990,Fertility (live births per woman),1.83
+1952,Serbia,Europe,2000,Fertility (live births per woman),1.45
+1953,Seychelles,Africa,1980,Fertility (live births per woman),3.25
+1954,Seychelles,Africa,1990,Fertility (live births per woman),2.35
+1955,Seychelles,Africa,2000,Fertility (live births per woman),2.21
+1956,Sierra Leone,Africa,1970,Fertility (live births per woman),6.51
+1957,Sierra Leone,Africa,1980,Fertility (live births per woman),6.25
+1958,Sierra Leone,Africa,1990,Fertility (live births per woman),6.6
+1959,Sierra Leone,Africa,2000,Fertility (live births per woman),6.1
+1960,Singapore,Asia,1970,Fertility (live births per woman),3.1
+1961,Singapore,Asia,1980,Fertility (live births per woman),1.62
+1962,Singapore,Asia,1990,Fertility (live births per woman),1.77
+1963,Singapore,Asia,2000,Fertility (live births per woman),1.25
+1964,Slovenia,Europe,1990,Fertility (live births per woman),1.29
+1965,Slovenia,Europe,2000,Fertility (live births per woman),1.26
+1966,Solomon Islands,Oceania,1980,Fertility (live births per woman),6.07
+1967,Solomon Islands,Oceania,1990,Fertility (live births per woman),4.77
+1968,Somalia,Africa,1970,Fertility (live births per woman),6.98
+1969,Somalia,Africa,1980,Fertility (live births per woman),7.29
+1970,Somalia,Africa,2000,Fertility (live births per woman),8.24
+1971,South Africa,Africa,2000,Fertility (live births per woman),2.88
+1972,South Africa,Africa,1970,Fertility (live births per woman),4.94
+1973,South Africa,Africa,1990,Fertility (live births per woman),2.9
+1974,Spain,Europe,1970,Fertility (live births per woman),2.82
+1975,Spain,Europe,1980,Fertility (live births per woman),1.63
+1976,Spain,Europe,1990,Fertility (live births per woman),1.18
+1977,Spain,Europe,2000,Fertility (live births per woman),1.35
+1978,Sri Lanka,Asia,1970,Fertility (live births per woman),4.22
+1979,Sri Lanka,Asia,1980,Fertility (live births per woman),2.68
+1980,Sri Lanka,Asia,2000,Fertility (live births per woman),2.36
+1981,Sri Lanka,Asia,1990,Fertility (live births per woman),1.88
+1982,Suriname,South America,1970,Fertility (live births per woman),5.51
+1983,Suriname,South America,1980,Fertility (live births per woman),3.07
+1984,Suriname,South America,1990,Fertility (live births per woman),2.37
+1985,Suriname,South America,2000,Fertility (live births per woman),2.14
+1986,Sweden,Europe,1970,Fertility (live births per woman),1.94
+1987,Sweden,Europe,1980,Fertility (live births per woman),1.73
+1988,Sweden,Europe,1990,Fertility (live births per woman),1.74
+1989,Sweden,Europe,2000,Fertility (live births per woman),1.77
+1990,Switzerland,Europe,1970,Fertility (live births per woman),2.09
+1991,Switzerland,Europe,1980,Fertility (live births per woman),1.51
+1992,Switzerland,Europe,1990,Fertility (live births per woman),1.5
+1993,Switzerland,Europe,2000,Fertility (live births per woman),1.42
+1994,Tajikistan,Asia,1990,Fertility (live births per woman),3.62
+1995,Tajikistan,Asia,2000,Fertility (live births per woman),3.93
+1996,Thailand,Asia,1970,Fertility (live births per woman),6.11
+1997,Thailand,Asia,1980,Fertility (live births per woman),2.24
+1998,Thailand,Asia,1990,Fertility (live births per woman),2.02
+1999,Thailand,Asia,2000,Fertility (live births per woman),1.49
+2000,Timor-Leste,Asia,2000,Fertility (live births per woman),7.77
+2001,Togo,Africa,1970,Fertility (live births per woman),6.64
+2002,Togo,Africa,1980,Fertility (live births per woman),6.44
+2003,Togo,Africa,1990,Fertility (live births per woman),5.2
+2004,Tonga,Oceania,1970,Fertility (live births per woman),6.16
+2005,Tonga,Oceania,1980,Fertility (live births per woman),5.2
+2006,Tonga,Oceania,1990,Fertility (live births per woman),4.16
+2007,Tonga,Oceania,2000,Fertility (live births per woman),3.88
+2008,Trinidad and Tobago,North America,1970,Fertility (live births per woman),3.63
+2009,Trinidad and Tobago,North America,1980,Fertility (live births per woman),3.2
+2010,Trinidad and Tobago,North America,1990,Fertility (live births per woman),1.81
+2011,Trinidad and Tobago,North America,2000,Fertility (live births per woman),1.62
+2012,Tunisia,Africa,1970,Fertility (live births per woman),6.09
+2013,Tunisia,Africa,1980,Fertility (live births per woman),4.44
+2014,Tunisia,Africa,1990,Fertility (live births per woman),2.61
+2015,Tunisia,Africa,2000,Fertility (live births per woman),2.04
+2016,Turkmenistan,Asia,1990,Fertility (live births per woman),2.88
+2017,Turkmenistan,Asia,2000,Fertility (live births per woman),2.6
+2018,Tuvalu,Oceania,1970,Fertility (live births per woman),4.03
+2019,Tuvalu,Oceania,1990,Fertility (live births per woman),3.37
+2020,Uganda,Africa,1980,Fertility (live births per woman),7.38
+2021,Uganda,Africa,1990,Fertility (live births per woman),6.86
+2022,Uganda,Africa,2000,Fertility (live births per woman),6.67
+2023,Ukraine,Europe,2000,Fertility (live births per woman),1.22
+2024,United Arab Emirates,Asia,1980,Fertility (live births per woman),5.91
+2025,United Arab Emirates,Asia,1990,Fertility (live births per woman),2.8
+2026,United Arab Emirates,Asia,2000,Fertility (live births per woman),1.96
+2027,Uruguay,South America,1970,Fertility (live births per woman),2.71
+2028,Uruguay,South America,1980,Fertility (live births per woman),2.49
+2029,Uruguay,South America,1990,Fertility (live births per woman),2.55
+2030,Uruguay,South America,2000,Fertility (live births per woman),1.96
+2031,Uzbekistan,Asia,1990,Fertility (live births per woman),3.34
+2032,Uzbekistan,Asia,2000,Fertility (live births per woman),2.58
+2033,Vanuatu,Oceania,1970,Fertility (live births per woman),6.75
+2034,Vanuatu,Oceania,1980,Fertility (live births per woman),4.88
+2035,Zambia,Africa,1990,Fertility (live births per woman),6.08
+2036,Zambia,Africa,2000,Fertility (live births per woman),5.87
+2037,Zimbabwe,Africa,2000,Fertility (live births per woman),3.8
+2038,Zimbabwe,Africa,1990,Fertility (live births per woman),3.98
+2039,Zimbabwe,Africa,1980,Fertility (live births per woman),5.42
+2040,Afghanistan,Asia,1970,Mean Age at Childbearing,30.0
+2041,Afghanistan,Asia,2000,Mean Age at Childbearing,30.1
+2042,Albania,Europe,1970,Mean Age at Childbearing,29.7
+2043,Albania,Europe,1980,Mean Age at Childbearing,28.8
+2044,Albania,Europe,1990,Mean Age at Childbearing,27.6
+2045,Albania,Europe,2000,Mean Age at Childbearing,27.7
+2046,Algeria,Africa,1970,Mean Age at Childbearing,30.4
+2047,Algeria,Africa,1980,Mean Age at Childbearing,31.8
+2048,Algeria,Africa,1990,Mean Age at Childbearing,31.7
+2049,Algeria,Africa,2000,Mean Age at Childbearing,32.1
+2050,Angola,Africa,2000,Mean Age at Childbearing,29.3
+2051,Antigua and Barbuda,North America,1970,Mean Age at Childbearing,27.1
+2052,Antigua and Barbuda,North America,1980,Mean Age at Childbearing,25.8
+2053,Antigua and Barbuda,North America,1990,Mean Age at Childbearing,27.2
+2054,Antigua and Barbuda,North America,2000,Mean Age at Childbearing,28.1
+2055,Argentina,South America,1970,Mean Age at Childbearing,28.1
+2056,Argentina,South America,1980,Mean Age at Childbearing,27.6
+2057,Argentina,South America,1990,Mean Age at Childbearing,27.8
+2058,Argentina,South America,2000,Mean Age at Childbearing,28.0
+2059,Armenia,Europe,1990,Mean Age at Childbearing,24.8
+2060,Armenia,Europe,2000,Mean Age at Childbearing,25.4
+2061,Aruba,North America,1970,Mean Age at Childbearing,28.3
+2062,Aruba,North America,1980,Mean Age at Childbearing,27.0
+2063,Aruba,North America,1990,Mean Age at Childbearing,27.2
+2064,Aruba,North America,2000,Mean Age at Childbearing,27.2
+2065,Australia,Oceania,1970,Mean Age at Childbearing,27.1
+2066,Australia,Oceania,1980,Mean Age at Childbearing,27.7
+2067,Australia,Oceania,1990,Mean Age at Childbearing,29.0
+2068,Australia,Oceania,2000,Mean Age at Childbearing,30.1
+2069,Austria,Europe,1970,Mean Age at Childbearing,26.6
+2070,Austria,Europe,1980,Mean Age at Childbearing,26.6
+2071,Austria,Europe,1990,Mean Age at Childbearing,27.7
+2072,Austria,Europe,2000,Mean Age at Childbearing,29.0
+2073,Azerbaijan,Europe,1990,Mean Age at Childbearing,26.3
+2074,Azerbaijan,Europe,2000,Mean Age at Childbearing,26.2
+2075,Bahrain,Asia,1970,Mean Age at Childbearing,25.6
+2076,Bahrain,Asia,1980,Mean Age at Childbearing,30.7
+2077,Bahrain,Asia,1990,Mean Age at Childbearing,31.0
+2078,Bahrain,Asia,2000,Mean Age at Childbearing,29.6
+2079,Bangladesh,Asia,1970,Mean Age at Childbearing,27.5
+2080,Bangladesh,Asia,1980,Mean Age at Childbearing,28.1
+2081,Bangladesh,Asia,1990,Mean Age at Childbearing,25.8
+2082,Bangladesh,Asia,2000,Mean Age at Childbearing,25.5
+2083,Barbados,North America,1970,Mean Age at Childbearing,27.2
+2084,Barbados,North America,1980,Mean Age at Childbearing,26.6
+2085,Barbados,North America,1990,Mean Age at Childbearing,27.8
+2086,Barbados,North America,2000,Mean Age at Childbearing,27.5
+2087,Belarus,Europe,2000,Mean Age at Childbearing,26.2
+2088,Belarus,Europe,1990,Mean Age at Childbearing,24.9
+2089,Belgium,Europe,1970,Mean Age at Childbearing,27.2
+2090,Belgium,Europe,1980,Mean Age at Childbearing,27.4
+2091,Belgium,Europe,1990,Mean Age at Childbearing,28.5
+2092,Belgium,Europe,2000,Mean Age at Childbearing,30.9
+2093,Belize,North America,1970,Mean Age at Childbearing,28.5
+2094,Belize,North America,1990,Mean Age at Childbearing,27.0
+2095,Belize,North America,1980,Mean Age at Childbearing,27.6
+2096,Benin,Africa,1980,Mean Age at Childbearing,29.4
+2097,Benin,Africa,1990,Mean Age at Childbearing,29.5
+2098,Benin,Africa,2000,Mean Age at Childbearing,29.2
+2099,Bermuda,North America,1970,Mean Age at Childbearing,26.5
+2100,Bermuda,North America,1980,Mean Age at Childbearing,27.2
+2101,Bermuda,North America,1990,Mean Age at Childbearing,28.7
+2102,Bermuda,North America,2000,Mean Age at Childbearing,28.7
+2103,Bhutan,Asia,1990,Mean Age at Childbearing,29.4
+2104,Bhutan,Asia,2000,Mean Age at Childbearing,29.4
+2105,Bosnia and Herzegovina,Europe,1990,Mean Age at Childbearing,26.9
+2106,Bosnia and Herzegovina,Europe,2000,Mean Age at Childbearing,27.3
+2107,Botswana,Africa,2000,Mean Age at Childbearing,28.1
+2108,Botswana,Africa,1970,Mean Age at Childbearing,30.8
+2109,Botswana,Africa,1980,Mean Age at Childbearing,30.0
+2110,Brazil,South America,1970,Mean Age at Childbearing,29.5
+2111,Brazil,South America,1980,Mean Age at Childbearing,28.0
+2112,Brazil,South America,1990,Mean Age at Childbearing,26.6
+2113,Brazil,South America,2000,Mean Age at Childbearing,26.0
+2114,Bulgaria,Europe,1970,Mean Age at Childbearing,24.7
+2115,Bulgaria,Europe,1990,Mean Age at Childbearing,24.2
+2116,Bulgaria,Europe,1980,Mean Age at Childbearing,24.0
+2117,Bulgaria,Europe,2000,Mean Age at Childbearing,26.1
+2118,Burkina Faso,Africa,1980,Mean Age at Childbearing,29.4
+2119,Burkina Faso,Africa,1990,Mean Age at Childbearing,29.5
+2120,Burkina Faso,Africa,2000,Mean Age at Childbearing,29.6
+2121,Burundi,Africa,1970,Mean Age at Childbearing,30.7
+2122,Burundi,Africa,1990,Mean Age at Childbearing,31.5
+2123,Burundi,Africa,2000,Mean Age at Childbearing,31.4
+2124,Cambodia,Asia,1990,Mean Age at Childbearing,29.6
+2125,Cambodia,Asia,2000,Mean Age at Childbearing,29.0
+2126,Cameroon,Africa,1990,Mean Age at Childbearing,28.3
+2127,Cameroon,Africa,1980,Mean Age at Childbearing,28.3
+2128,Cameroon,Africa,2000,Mean Age at Childbearing,28.3
+2129,Canada,North America,1970,Mean Age at Childbearing,27.2
+2130,Canada,North America,1980,Mean Age at Childbearing,27.4
+2131,Canada,North America,1990,Mean Age at Childbearing,28.2
+2132,Canada,North America,2000,Mean Age at Childbearing,29.5
+2133,Central African Republic,Africa,1970,Mean Age at Childbearing,28.7
+2134,Central African Republic,Africa,1990,Mean Age at Childbearing,28.2
+2135,Central African Republic,Africa,1980,Mean Age at Childbearing,29.7
+2136,Chad,Africa,1990,Mean Age at Childbearing,28.0
+2137,Chad,Africa,2000,Mean Age at Childbearing,28.3
+2138,Chile,South America,1970,Mean Age at Childbearing,28.4
+2139,Chile,South America,1980,Mean Age at Childbearing,27.4
+2140,Chile,South America,1990,Mean Age at Childbearing,27.4
+2141,Chile,South America,2000,Mean Age at Childbearing,28.0
+2142,Colombia,South America,1970,Mean Age at Childbearing,30.0
+2143,Colombia,South America,1980,Mean Age at Childbearing,28.0
+2144,Colombia,South America,1990,Mean Age at Childbearing,27.0
+2145,Colombia,South America,2000,Mean Age at Childbearing,26.6
+2146,Comoros,Africa,1980,Mean Age at Childbearing,30.0
+2147,Comoros,Africa,1990,Mean Age at Childbearing,30.3
+2148,Costa Rica,North America,1970,Mean Age at Childbearing,29.0
+2149,Costa Rica,North America,1980,Mean Age at Childbearing,27.4
+2150,Costa Rica,North America,1990,Mean Age at Childbearing,27.0
+2151,Costa Rica,North America,2000,Mean Age at Childbearing,26.7
+2152,Croatia,Europe,1990,Mean Age at Childbearing,27.2
+2153,Croatia,Europe,2000,Mean Age at Childbearing,28.4
+2154,Cuba,North America,1970,Mean Age at Childbearing,26.5
+2155,Cuba,North America,1980,Mean Age at Childbearing,24.7
+2156,Cuba,North America,1990,Mean Age at Childbearing,25.5
+2157,Cuba,North America,2000,Mean Age at Childbearing,26.3
+2158,Cyprus,Europe,1970,Mean Age at Childbearing,28.5
+2159,Cyprus,Europe,1980,Mean Age at Childbearing,26.9
+2160,Cyprus,Europe,1990,Mean Age at Childbearing,28.1
+2161,Cyprus,Europe,2000,Mean Age at Childbearing,29.6
+2162,Denmark,Europe,1970,Mean Age at Childbearing,26.7
+2163,Denmark,Europe,1980,Mean Age at Childbearing,27.7
+2164,Denmark,Europe,1990,Mean Age at Childbearing,29.2
+2165,Denmark,Europe,2000,Mean Age at Childbearing,30.2
+2166,Djibouti,Africa,1990,Mean Age at Childbearing,31.5
+2167,Dominica,North America,1970,Mean Age at Childbearing,28.3
+2168,Dominica,North America,1990,Mean Age at Childbearing,27.8
+2169,Dominica,North America,2000,Mean Age at Childbearing,28.7
+2170,Dominica,North America,1980,Mean Age at Childbearing,26.9
+2171,Dominican Republic,North America,1970,Mean Age at Childbearing,30.3
+2172,Dominican Republic,North America,1990,Mean Age at Childbearing,26.0
+2173,Dominican Republic,North America,2000,Mean Age at Childbearing,25.7
+2174,Ecuador,South America,1970,Mean Age at Childbearing,29.8
+2175,Ecuador,South America,1980,Mean Age at Childbearing,28.8
+2176,Ecuador,South America,1990,Mean Age at Childbearing,28.0
+2177,Ecuador,South America,2000,Mean Age at Childbearing,27.4
+2178,El Salvador,North America,1970,Mean Age at Childbearing,28.6
+2179,El Salvador,North America,1980,Mean Age at Childbearing,27.2
+2180,El Salvador,North America,1990,Mean Age at Childbearing,27.0
+2181,El Salvador,North America,2000,Mean Age at Childbearing,26.8
+2182,Equatorial Guinea,Africa,1980,Mean Age at Childbearing,28.0
+2183,Equatorial Guinea,Africa,1990,Mean Age at Childbearing,30.1
+2184,Equatorial Guinea,Africa,2000,Mean Age at Childbearing,28.4
+2185,Eritrea,Africa,1990,Mean Age at Childbearing,30.0
+2186,Estonia,Europe,1990,Mean Age at Childbearing,25.6
+2187,Estonia,Europe,2000,Mean Age at Childbearing,28.2
+2188,Ethiopia,Africa,1990,Mean Age at Childbearing,29.7
+2189,Ethiopia,Africa,2000,Mean Age at Childbearing,29.8
+2190,Fiji,Oceania,1970,Mean Age at Childbearing,28.4
+2191,Fiji,Oceania,1980,Mean Age at Childbearing,26.9
+2192,Fiji,Oceania,1990,Mean Age at Childbearing,26.9
+2193,Fiji,Oceania,2000,Mean Age at Childbearing,28.2
+2194,Finland,Europe,1970,Mean Age at Childbearing,27.1
+2195,Finland,Europe,1980,Mean Age at Childbearing,28.4
+2196,Finland,Europe,1990,Mean Age at Childbearing,29.3
+2197,Finland,Europe,2000,Mean Age at Childbearing,29.9
+2198,France,Europe,1970,Mean Age at Childbearing,27.7
+2199,France,Europe,1980,Mean Age at Childbearing,28.0
+2200,France,Europe,1990,Mean Age at Childbearing,29.5
+2201,France,Europe,2000,Mean Age at Childbearing,30.2
+2202,Gabon,Africa,1990,Mean Age at Childbearing,28.3
+2203,Georgia,Europe,1990,Mean Age at Childbearing,25.0
+2204,Georgia,Europe,2000,Mean Age at Childbearing,26.0
+2205,Germany,Europe,1970,Mean Age at Childbearing,26.8
+2206,Germany,Europe,1980,Mean Age at Childbearing,27.4
+2207,Germany,Europe,1990,Mean Age at Childbearing,28.9
+2208,Germany,Europe,2000,Mean Age at Childbearing,29.5
+2209,Ghana,Africa,1970,Mean Age at Childbearing,29.5
+2210,Ghana,Africa,1990,Mean Age at Childbearing,29.4
+2211,Ghana,Africa,2000,Mean Age at Childbearing,30.3
+2212,Greece,Europe,1970,Mean Age at Childbearing,27.4
+2213,Greece,Europe,1980,Mean Age at Childbearing,26.3
+2214,Greece,Europe,1990,Mean Age at Childbearing,28.2
+2215,Greece,Europe,2000,Mean Age at Childbearing,29.8
+2216,Grenada,North America,1970,Mean Age at Childbearing,27.8
+2217,Grenada,North America,1980,Mean Age at Childbearing,27.5
+2218,Grenada,North America,1990,Mean Age at Childbearing,28.4
+2219,Guatemala,North America,1970,Mean Age at Childbearing,28.8
+2220,Guatemala,North America,1980,Mean Age at Childbearing,29.2
+2221,Guatemala,North America,1990,Mean Age at Childbearing,28.8
+2222,Guatemala,North America,2000,Mean Age at Childbearing,28.6
+2223,Guinea,Africa,1980,Mean Age at Childbearing,28.8
+2224,Guinea,Africa,1990,Mean Age at Childbearing,28.6
+2225,Guinea,Africa,2000,Mean Age at Childbearing,29.0
+2226,Guyana,South America,1970,Mean Age at Childbearing,27.6
+2227,Guyana,South America,1980,Mean Age at Childbearing,27.3
+2228,Guyana,South America,1990,Mean Age at Childbearing,27.8
+2229,Guyana,South America,2000,Mean Age at Childbearing,28.5
+2230,Haiti,North America,1970,Mean Age at Childbearing,31.8
+2231,Haiti,North America,1980,Mean Age at Childbearing,30.1
+2232,Haiti,North America,1990,Mean Age at Childbearing,30.2
+2233,Haiti,North America,2000,Mean Age at Childbearing,30.9
+2234,Honduras,North America,1970,Mean Age at Childbearing,29.3
+2235,Honduras,North America,1980,Mean Age at Childbearing,28.7
+2236,Honduras,North America,1990,Mean Age at Childbearing,28.6
+2237,Hungary,Europe,1970,Mean Age at Childbearing,25.5
+2238,Hungary,Europe,1980,Mean Age at Childbearing,25.1
+2239,Hungary,Europe,1990,Mean Age at Childbearing,26.3
+2240,Hungary,Europe,2000,Mean Age at Childbearing,28.5
+2241,Iceland,Europe,1970,Mean Age at Childbearing,27.3
+2242,Iceland,Europe,1980,Mean Age at Childbearing,27.4
+2243,Iceland,Europe,1990,Mean Age at Childbearing,28.7
+2244,Iceland,Europe,2000,Mean Age at Childbearing,29.4
+2245,India,Asia,1970,Mean Age at Childbearing,29.4
+2246,India,Asia,1980,Mean Age at Childbearing,27.9
+2247,India,Asia,1990,Mean Age at Childbearing,27.5
+2248,India,Asia,2000,Mean Age at Childbearing,26.8
+2249,Indonesia,Asia,1970,Mean Age at Childbearing,28.1
+2250,Indonesia,Asia,1980,Mean Age at Childbearing,28.3
+2251,Indonesia,Asia,1990,Mean Age at Childbearing,28.1
+2252,Indonesia,Asia,2000,Mean Age at Childbearing,28.2
+2253,Iraq,Asia,1970,Mean Age at Childbearing,31.0
+2254,Iraq,Asia,1990,Mean Age at Childbearing,30.4
+2255,Iraq,Asia,2000,Mean Age at Childbearing,30.1
+2256,Ireland,Europe,1970,Mean Age at Childbearing,30.3
+2257,Ireland,Europe,1980,Mean Age at Childbearing,29.9
+2258,Ireland,Europe,1990,Mean Age at Childbearing,30.3
+2259,Ireland,Europe,2000,Mean Age at Childbearing,31.2
+2260,Israel,Asia,1970,Mean Age at Childbearing,28.3
+2261,Israel,Asia,1980,Mean Age at Childbearing,28.5
+2262,Israel,Asia,1990,Mean Age at Childbearing,29.3
+2263,Israel,Asia,2000,Mean Age at Childbearing,30.0
+2264,Italy,Europe,1970,Mean Age at Childbearing,28.2
+2265,Italy,Europe,1980,Mean Age at Childbearing,28.1
+2266,Italy,Europe,1990,Mean Age at Childbearing,29.8
+2267,Italy,Europe,2000,Mean Age at Childbearing,30.8
+2268,Jamaica,North America,1970,Mean Age at Childbearing,27.4
+2269,Jamaica,North America,2000,Mean Age at Childbearing,27.3
+2270,Jamaica,North America,1980,Mean Age at Childbearing,26.8
+2271,Jamaica,North America,1990,Mean Age at Childbearing,26.9
+2272,Japan,Asia,1970,Mean Age at Childbearing,27.8
+2273,Japan,Asia,1980,Mean Age at Childbearing,28.3
+2274,Japan,Asia,1990,Mean Age at Childbearing,29.4
+2275,Japan,Asia,2000,Mean Age at Childbearing,30.0
+2276,Jordan,Asia,1970,Mean Age at Childbearing,29.5
+2277,Jordan,Asia,1980,Mean Age at Childbearing,30.4
+2278,Jordan,Asia,1990,Mean Age at Childbearing,29.9
+2279,Jordan,Asia,2000,Mean Age at Childbearing,29.9
+2280,Kazakhstan,Asia,1990,Mean Age at Childbearing,26.0
+2281,Kazakhstan,Asia,2000,Mean Age at Childbearing,27.7
+2282,Kenya,Africa,1990,Mean Age at Childbearing,28.3
+2283,Kenya,Africa,2000,Mean Age at Childbearing,28.5
+2284,Kenya,Africa,1980,Mean Age at Childbearing,29.0
+2285,Kiribati,Oceania,1970,Mean Age at Childbearing,28.9
+2286,Kiribati,Oceania,1980,Mean Age at Childbearing,29.6
+2287,Kiribati,Oceania,1990,Mean Age at Childbearing,30.0
+2288,Kiribati,Oceania,2000,Mean Age at Childbearing,29.8
+2289,Kuwait,Asia,1970,Mean Age at Childbearing,28.8
+2290,Kuwait,Asia,1980,Mean Age at Childbearing,29.4
+2291,Kuwait,Asia,1990,Mean Age at Childbearing,29.4
+2292,Kuwait,Asia,2000,Mean Age at Childbearing,29.8
+2293,Latvia,Europe,1990,Mean Age at Childbearing,25.8
+2294,Latvia,Europe,2000,Mean Age at Childbearing,28.2
+2295,Lebanon,Asia,1970,Mean Age at Childbearing,30.2
+2296,Lebanon,Asia,1990,Mean Age at Childbearing,29.6
+2297,Lesotho,Africa,2000,Mean Age at Childbearing,28.5
+2298,Lesotho,Africa,1970,Mean Age at Childbearing,30.3
+2299,Lesotho,Africa,1990,Mean Age at Childbearing,31.0
+2300,Lesotho,Africa,1980,Mean Age at Childbearing,30.2
+2301,Liberia,Africa,1980,Mean Age at Childbearing,29.3
+2302,Liberia,Africa,2000,Mean Age at Childbearing,28.8
+2303,Libya,Africa,1970,Mean Age at Childbearing,30.0
+2304,Libya,Africa,1980,Mean Age at Childbearing,30.8
+2305,Libya,Africa,1990,Mean Age at Childbearing,33.3
+2306,Libya,Africa,2000,Mean Age at Childbearing,32.5
+2307,Liechtenstein,Europe,1990,Mean Age at Childbearing,30.2
+2308,Liechtenstein,Europe,2000,Mean Age at Childbearing,31.1
+2309,Lithuania,Europe,1990,Mean Age at Childbearing,25.6
+2310,Lithuania,Europe,2000,Mean Age at Childbearing,27.6
+2311,Luxembourg,Europe,1970,Mean Age at Childbearing,27.2
+2312,Luxembourg,Europe,1980,Mean Age at Childbearing,27.9
+2313,Luxembourg,Europe,1990,Mean Age at Childbearing,28.9
+2314,Luxembourg,Europe,2000,Mean Age at Childbearing,29.7
+2315,Madagascar,Africa,1970,Mean Age at Childbearing,29.3
+2316,Madagascar,Africa,1990,Mean Age at Childbearing,28.5
+2317,Madagascar,Africa,2000,Mean Age at Childbearing,28.4
+2318,Malawi,Africa,1990,Mean Age at Childbearing,28.9
+2319,Malawi,Africa,1970,Mean Age at Childbearing,30.6
+2320,Malawi,Africa,1980,Mean Age at Childbearing,29.7
+2321,Malawi,Africa,2000,Mean Age at Childbearing,28.8
+2322,Malaysia,Asia,1970,Mean Age at Childbearing,29.4
+2323,Malaysia,Asia,1980,Mean Age at Childbearing,30.0
+2324,Malaysia,Asia,1990,Mean Age at Childbearing,30.0
+2325,Malaysia,Asia,2000,Mean Age at Childbearing,30.4
+2326,Maldives,Asia,1970,Mean Age at Childbearing,29.1
+2327,Maldives,Asia,1980,Mean Age at Childbearing,29.6
+2328,Maldives,Asia,1990,Mean Age at Childbearing,28.8
+2329,Maldives,Asia,2000,Mean Age at Childbearing,28.8
+2330,Mali,Africa,1980,Mean Age at Childbearing,29.0
+2331,Mali,Africa,1990,Mean Age at Childbearing,28.8
+2332,Malta,Europe,1970,Mean Age at Childbearing,29.0
+2333,Malta,Europe,1980,Mean Age at Childbearing,28.9
+2334,Malta,Europe,1990,Mean Age at Childbearing,29.0
+2335,Malta,Europe,2000,Mean Age at Childbearing,28.9
+2336,Marshall Islands,Oceania,1970,Mean Age at Childbearing,30.6
+2337,Marshall Islands,Oceania,1980,Mean Age at Childbearing,27.3
+2338,Marshall Islands,Oceania,1990,Mean Age at Childbearing,26.6
+2339,Marshall Islands,Oceania,2000,Mean Age at Childbearing,26.6
+2340,Mauritania,Africa,1990,Mean Age at Childbearing,30.3
+2341,Mauritania,Africa,2000,Mean Age at Childbearing,31.6
+2342,Mauritius,Africa,1970,Mean Age at Childbearing,28.8
+2343,Mauritius,Africa,1980,Mean Age at Childbearing,27.5
+2344,Mauritius,Africa,1990,Mean Age at Childbearing,27.1
+2345,Mauritius,Africa,2000,Mean Age at Childbearing,27.2
+2346,Mexico,North America,1970,Mean Age at Childbearing,30.0
+2347,Mexico,North America,1980,Mean Age at Childbearing,28.4
+2348,Mexico,North America,1990,Mean Age at Childbearing,27.8
+2349,Mexico,North America,2000,Mean Age at Childbearing,26.9
+2350,Mongolia,Asia,1970,Mean Age at Childbearing,31.5
+2351,Mongolia,Asia,1980,Mean Age at Childbearing,29.7
+2352,Mongolia,Asia,1990,Mean Age at Childbearing,27.8
+2353,Mongolia,Asia,2000,Mean Age at Childbearing,28.5
+2354,Montenegro,Europe,2000,Mean Age at Childbearing,28.4
+2355,Montenegro,Europe,1990,Mean Age at Childbearing,28.0
+2356,Morocco,Africa,1970,Mean Age at Childbearing,30.1
+2357,Morocco,Africa,1980,Mean Age at Childbearing,31.1
+2358,Morocco,Africa,1990,Mean Age at Childbearing,31.3
+2359,Morocco,Africa,2000,Mean Age at Childbearing,29.7
+2360,Mozambique,Africa,1970,Mean Age at Childbearing,30.4
+2361,Mozambique,Africa,1980,Mean Age at Childbearing,30.0
+2362,Mozambique,Africa,1990,Mean Age at Childbearing,28.4
+2363,Mozambique,Africa,2000,Mean Age at Childbearing,28.8
+2364,Myanmar,Asia,1980,Mean Age at Childbearing,30.3
+2365,Myanmar,Asia,1990,Mean Age at Childbearing,30.8
+2366,Myanmar,Asia,2000,Mean Age at Childbearing,30.4
+2367,Namibia,Africa,2000,Mean Age at Childbearing,30.3
+2368,Namibia,Africa,1990,Mean Age at Childbearing,30.2
+2369,Nauru,Oceania,2000,Mean Age at Childbearing,25.8
+2370,Nauru,Oceania,1990,Mean Age at Childbearing,27.7
+2371,Nauru,Oceania,1970,Mean Age at Childbearing,29.8
+2372,Nepal,Asia,1970,Mean Age at Childbearing,30.4
+2373,Nepal,Asia,1980,Mean Age at Childbearing,29.3
+2374,Nepal,Asia,1990,Mean Age at Childbearing,27.5
+2375,Nepal,Asia,2000,Mean Age at Childbearing,26.0
+2376,Netherlands,Europe,1970,Mean Age at Childbearing,28.2
+2377,Netherlands,Europe,1980,Mean Age at Childbearing,28.4
+2378,Netherlands,Europe,1990,Mean Age at Childbearing,30.0
+2379,Netherlands,Europe,2000,Mean Age at Childbearing,31.0
+2380,New Zealand,Oceania,1970,Mean Age at Childbearing,26.7
+2381,New Zealand,Oceania,1980,Mean Age at Childbearing,27.2
+2382,New Zealand,Oceania,1990,Mean Age at Childbearing,28.3
+2383,New Zealand,Oceania,2000,Mean Age at Childbearing,29.5
+2384,Nicaragua,North America,1970,Mean Age at Childbearing,29.8
+2385,Nicaragua,North America,1980,Mean Age at Childbearing,28.0
+2386,Nicaragua,North America,1990,Mean Age at Childbearing,27.2
+2387,Nicaragua,North America,2000,Mean Age at Childbearing,26.9
+2388,Niger,Africa,1980,Mean Age at Childbearing,28.6
+2389,Niger,Africa,1990,Mean Age at Childbearing,28.7
+2390,Niger,Africa,2000,Mean Age at Childbearing,30.2
+2391,Nigeria,Africa,1980,Mean Age at Childbearing,29.7
+2392,Nigeria,Africa,2000,Mean Age at Childbearing,29.2
+2393,Norway,Europe,1970,Mean Age at Childbearing,27.0
+2394,Norway,Europe,1980,Mean Age at Childbearing,27.5
+2395,Norway,Europe,1990,Mean Age at Childbearing,28.8
+2396,Norway,Europe,2000,Mean Age at Childbearing,29.8
+2397,Oman,Asia,1980,Mean Age at Childbearing,29.0
+2398,Oman,Asia,1990,Mean Age at Childbearing,30.7
+2399,Oman,Asia,2000,Mean Age at Childbearing,31.7
+2400,Pakistan,Asia,1970,Mean Age at Childbearing,29.5
+2401,Pakistan,Asia,1980,Mean Age at Childbearing,30.8
+2402,Pakistan,Asia,1990,Mean Age at Childbearing,29.6
+2403,Pakistan,Asia,2000,Mean Age at Childbearing,30.3
+2404,Palau,Oceania,2000,Mean Age at Childbearing,28.3
+2405,Palau,Oceania,1990,Mean Age at Childbearing,27.9
+2406,Panama,North America,1970,Mean Age at Childbearing,27.8
+2407,Panama,North America,1980,Mean Age at Childbearing,27.0
+2408,Panama,North America,1990,Mean Age at Childbearing,26.7
+2409,Panama,North America,2000,Mean Age at Childbearing,26.6
+2410,Papua New Guinea,Oceania,1970,Mean Age at Childbearing,30.6
+2411,Papua New Guinea,Oceania,1990,Mean Age at Childbearing,29.8
+2412,Papua New Guinea,Oceania,2000,Mean Age at Childbearing,30.7
+2413,Paraguay,South America,1970,Mean Age at Childbearing,30.8
+2414,Paraguay,South America,1980,Mean Age at Childbearing,29.3
+2415,Paraguay,South America,1990,Mean Age at Childbearing,28.7
+2416,Paraguay,South America,2000,Mean Age at Childbearing,28.3
+2417,Peru,South America,1970,Mean Age at Childbearing,29.9
+2418,Peru,South America,1980,Mean Age at Childbearing,29.4
+2419,Peru,South America,1990,Mean Age at Childbearing,28.7
+2420,Peru,South America,2000,Mean Age at Childbearing,28.3
+2421,Philippines,Asia,1970,Mean Age at Childbearing,30.6
+2422,Philippines,Asia,1990,Mean Age at Childbearing,29.2
+2423,Philippines,Asia,2000,Mean Age at Childbearing,28.9
+2424,Poland,Europe,1970,Mean Age at Childbearing,27.1
+2425,Poland,Europe,1980,Mean Age at Childbearing,26.4
+2426,Poland,Europe,1990,Mean Age at Childbearing,26.9
+2427,Poland,Europe,2000,Mean Age at Childbearing,28.2
+2428,Portugal,Europe,1970,Mean Age at Childbearing,29.0
+2429,Portugal,Europe,1980,Mean Age at Childbearing,27.1
+2430,Portugal,Europe,1990,Mean Age at Childbearing,28.1
+2431,Portugal,Europe,2000,Mean Age at Childbearing,29.3
+2432,Puerto Rico,North America,1970,Mean Age at Childbearing,27.1
+2433,Puerto Rico,North America,1980,Mean Age at Childbearing,26.4
+2434,Puerto Rico,North America,1990,Mean Age at Childbearing,25.9
+2435,Puerto Rico,North America,2000,Mean Age at Childbearing,26.0
+2436,Qatar,Asia,1980,Mean Age at Childbearing,30.2
+2437,Qatar,Asia,1990,Mean Age at Childbearing,29.0
+2438,Qatar,Asia,2000,Mean Age at Childbearing,29.8
+2439,Romania,Europe,1980,Mean Age at Childbearing,25.4
+2440,Romania,Europe,1970,Mean Age at Childbearing,26.7
+2441,Romania,Europe,1990,Mean Age at Childbearing,25.0
+2442,Romania,Europe,2000,Mean Age at Childbearing,26.7
+2443,Russian Federation,Europe,2000,Mean Age at Childbearing,26.5
+2444,Russian Federation,Europe,1990,Mean Age at Childbearing,24.8
+2445,Rwanda,Africa,1970,Mean Age at Childbearing,30.6
+2446,Rwanda,Africa,1990,Mean Age at Childbearing,31.3
+2447,Rwanda,Africa,2000,Mean Age at Childbearing,31.0
+2448,Samoa,Oceania,1970,Mean Age at Childbearing,30.3
+2449,Samoa,Oceania,1980,Mean Age at Childbearing,30.6
+2450,Samoa,Oceania,1990,Mean Age at Childbearing,31.7
+2451,Samoa,Oceania,2000,Mean Age at Childbearing,29.7
+2452,Sao Tome and Principe,Africa,1980,Mean Age at Childbearing,29.2
+2453,Sao Tome and Principe,Africa,1990,Mean Age at Childbearing,29.1
+2454,Sao Tome and Principe,Africa,2000,Mean Age at Childbearing,29.5
+2455,Saudi Arabia,Asia,1990,Mean Age at Childbearing,31.4
+2456,Saudi Arabia,Asia,2000,Mean Age at Childbearing,31.5
+2457,Senegal,Africa,1970,Mean Age at Childbearing,29.5
+2458,Senegal,Africa,1980,Mean Age at Childbearing,29.4
+2459,Senegal,Africa,1990,Mean Age at Childbearing,30.4
+2460,Senegal,Africa,2000,Mean Age at Childbearing,29.7
+2461,Serbia,Europe,1990,Mean Age at Childbearing,26.6
+2462,Serbia,Europe,2000,Mean Age at Childbearing,27.3
+2463,Seychelles,Africa,1980,Mean Age at Childbearing,27.6
+2464,Seychelles,Africa,1990,Mean Age at Childbearing,26.9
+2465,Seychelles,Africa,2000,Mean Age at Childbearing,27.4
+2466,Sierra Leone,Africa,1970,Mean Age at Childbearing,28.6
+2467,Sierra Leone,Africa,1980,Mean Age at Childbearing,28.7
+2468,Sierra Leone,Africa,1990,Mean Age at Childbearing,28.6
+2469,Sierra Leone,Africa,2000,Mean Age at Childbearing,29.8
+2470,Singapore,Asia,1970,Mean Age at Childbearing,29.1
+2471,Singapore,Asia,1980,Mean Age at Childbearing,28.7
+2472,Singapore,Asia,1990,Mean Age at Childbearing,29.8
+2473,Singapore,Asia,2000,Mean Age at Childbearing,30.1
+2474,Slovenia,Europe,1990,Mean Age at Childbearing,27.0
+2475,Slovenia,Europe,2000,Mean Age at Childbearing,29.3
+2476,Solomon Islands,Oceania,1980,Mean Age at Childbearing,29.5
+2477,Solomon Islands,Oceania,1990,Mean Age at Childbearing,29.2
+2478,Somalia,Africa,1970,Mean Age at Childbearing,31.8
+2479,Somalia,Africa,1980,Mean Age at Childbearing,31.3
+2480,Somalia,Africa,2000,Mean Age at Childbearing,30.8
+2481,South Africa,Africa,2000,Mean Age at Childbearing,28.8
+2482,South Africa,Africa,1970,Mean Age at Childbearing,30.1
+2483,South Africa,Africa,1990,Mean Age at Childbearing,28.3
+2484,Spain,Europe,1970,Mean Age at Childbearing,29.5
+2485,Spain,Europe,1980,Mean Age at Childbearing,28.5
+2486,Spain,Europe,1990,Mean Age at Childbearing,30.0
+2487,Spain,Europe,2000,Mean Age at Childbearing,30.9
+2488,Sri Lanka,Asia,1970,Mean Age at Childbearing,29.7
+2489,Sri Lanka,Asia,1980,Mean Age at Childbearing,28.6
+2490,Sri Lanka,Asia,2000,Mean Age at Childbearing,28.8
+2491,Sri Lanka,Asia,1990,Mean Age at Childbearing,28.4
+2492,Suriname,South America,1970,Mean Age at Childbearing,28.1
+2493,Suriname,South America,1980,Mean Age at Childbearing,26.7
+2494,Suriname,South America,1990,Mean Age at Childbearing,26.5
+2495,Suriname,South America,2000,Mean Age at Childbearing,27.3
+2496,Sweden,Europe,1970,Mean Age at Childbearing,26.9
+2497,Sweden,Europe,1980,Mean Age at Childbearing,28.4
+2498,Sweden,Europe,1990,Mean Age at Childbearing,29.2
+2499,Sweden,Europe,2000,Mean Age at Childbearing,30.5
+2500,Switzerland,Europe,1970,Mean Age at Childbearing,27.8
+2501,Switzerland,Europe,1980,Mean Age at Childbearing,28.4
+2502,Switzerland,Europe,1990,Mean Age at Childbearing,29.3
+2503,Switzerland,Europe,2000,Mean Age at Childbearing,30.5
+2504,Tajikistan,Asia,1990,Mean Age at Childbearing,27.6
+2505,Tajikistan,Asia,2000,Mean Age at Childbearing,28.4
+2506,Thailand,Asia,1970,Mean Age at Childbearing,30.8
+2507,Thailand,Asia,1980,Mean Age at Childbearing,27.6
+2508,Thailand,Asia,1990,Mean Age at Childbearing,26.9
+2509,Thailand,Asia,2000,Mean Age at Childbearing,27.0
+2510,Timor-Leste,Asia,2000,Mean Age at Childbearing,30.9
+2511,Togo,Africa,1970,Mean Age at Childbearing,30.3
+2512,Togo,Africa,1980,Mean Age at Childbearing,30.3
+2513,Togo,Africa,1990,Mean Age at Childbearing,30.1
+2514,Tonga,Oceania,1970,Mean Age at Childbearing,31.0
+2515,Tonga,Oceania,1980,Mean Age at Childbearing,30.7
+2516,Tonga,Oceania,1990,Mean Age at Childbearing,30.5
+2517,Tonga,Oceania,2000,Mean Age at Childbearing,30.8
+2518,Trinidad and Tobago,North America,1970,Mean Age at Childbearing,27.7
+2519,Trinidad and Tobago,North America,1980,Mean Age at Childbearing,27.4
+2520,Trinidad and Tobago,North America,1990,Mean Age at Childbearing,27.2
+2521,Trinidad and Tobago,North America,2000,Mean Age at Childbearing,27.3
+2522,Tunisia,Africa,1970,Mean Age at Childbearing,30.7
+2523,Tunisia,Africa,1980,Mean Age at Childbearing,30.4
+2524,Tunisia,Africa,1990,Mean Age at Childbearing,30.6
+2525,Tunisia,Africa,2000,Mean Age at Childbearing,31.1
+2526,Turkmenistan,Asia,1990,Mean Age at Childbearing,27.5
+2527,Turkmenistan,Asia,2000,Mean Age at Childbearing,24.4
+2528,Tuvalu,Oceania,1970,Mean Age at Childbearing,29.3
+2529,Tuvalu,Oceania,1990,Mean Age at Childbearing,30.2
+2530,Uganda,Africa,1980,Mean Age at Childbearing,29.1
+2531,Uganda,Africa,1990,Mean Age at Childbearing,28.4
+2532,Uganda,Africa,2000,Mean Age at Childbearing,29.0
+2533,Ukraine,Europe,2000,Mean Age at Childbearing,25.7
+2534,United Arab Emirates,Asia,1980,Mean Age at Childbearing,31.7
+2535,United Arab Emirates,Asia,1990,Mean Age at Childbearing,30.7
+2536,United Arab Emirates,Asia,2000,Mean Age at Childbearing,27.1
+2537,Uruguay,South America,1970,Mean Age at Childbearing,27.8
+2538,Uruguay,South America,1980,Mean Age at Childbearing,27.8
+2539,Uruguay,South America,1990,Mean Age at Childbearing,27.3
+2540,Uruguay,South America,2000,Mean Age at Childbearing,27.6
+2541,Uzbekistan,Asia,1990,Mean Age at Childbearing,26.3
+2542,Uzbekistan,Asia,2000,Mean Age at Childbearing,26.8
+2543,Vanuatu,Oceania,1970,Mean Age at Childbearing,29.1
+2544,Vanuatu,Oceania,1980,Mean Age at Childbearing,29.3
+2545,Zambia,Africa,1990,Mean Age at Childbearing,28.8
+2546,Zambia,Africa,2000,Mean Age at Childbearing,28.9
+2547,Zimbabwe,Africa,2000,Mean Age at Childbearing,28.1
+2548,Zimbabwe,Africa,1990,Mean Age at Childbearing,28.3
+2549,Zimbabwe,Africa,1980,Mean Age at Childbearing,29.5
